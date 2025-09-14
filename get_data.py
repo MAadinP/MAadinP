@@ -41,32 +41,26 @@ def get_progress_bar():
 
 def get_ascii_dino():
     ascii_dinos = [
-        """
-<pre><code>
+        """```text
              __
             / _)
      .-^^^-/ /
   __/       /
  <__.|_|-|_|
-</code></pre>
-""",
-        """
-<pre><code>
+```""",
+        """```text
            __
           / _)
    .-^^^-/ /
 __/       /
 <__.|_|-|_|
-</code></pre>
-""",
-        """
-<pre><code>
+```""",
+        """```text
           __
          /oo\\
         (    )
          `--'
-</code></pre>
-""",
+```""",
     ]
     return random.choice(ascii_dinos)
 
@@ -93,8 +87,8 @@ Hi there! Here's some fun info for today:
 
 > ### **{dino_name}**
 > {dino_desc}
->
-> ---
+
+---
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAadinP&show_icons=true&theme=tokyonight)
