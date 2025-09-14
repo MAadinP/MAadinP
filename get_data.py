@@ -1,5 +1,6 @@
 from datetime import datetime
 import requests
+import random
 
 README_PATH = "README.md"
 
@@ -38,10 +39,43 @@ def get_progress_bar():
     return f"📅 Year Progress: {bar} {percent:.2f}%"
 
 
+def get_ascii_dino():
+    ascii_dinos = [
+        """
+<pre><code>
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
+</code></pre>
+""",
+        """
+<pre><code>
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
+</code></pre>
+""",
+        """
+<pre><code>
+          __
+         /oo\\
+        (    )
+         `--'
+</code></pre>
+""",
+    ]
+    return random.choice(ascii_dinos)
+
+
 if __name__ == "__main__":
     days, year = get_days()
     dino_name, dino_desc = get_dino()
     progress_bar = get_progress_bar()
+    ascii_dino = get_ascii_dino()
 
     readme_content = f"""
 # 🦖 Welcome to My GitHub!
@@ -53,14 +87,19 @@ Hi there! Here's some fun info for today:
 
 {progress_bar}
 
-## 🦕 Dinosaur of the Day
-**{dino_name}**  
-*{dino_desc}*
+## 🌟 🦕 Dinosaur of the Day 🌟
+
+{ascii_dino}
+
+> ### **{dino_name}**
+> {dino_desc}
+>
+> ---
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAadinP&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAadinP&layout=compact&theme=tokyonight)
     """
 
     with open(README_PATH, "w", encoding="utf-8") as f:
