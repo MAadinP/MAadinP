@@ -35,4 +35,6 @@ jobs:
           git add README.md
           git commit -m "Updated README with new dino + stats"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
