@@ -8,8 +8,8 @@ Hi there! Here's some fun info for today:
 📅 Year Progress: ██████████████░░░░░░ 70.41%
 
 ## 🦕 Dinosaur of the Day
-**Cerasinops**  
-*A small ceratopsian of the late Cretaceous.*
+**Draconyx**  
+*This "dragon claw" lived in late Jurassic Portugal.*
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAadinP&show_icons=true&theme=tokyonight)
