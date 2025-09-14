@@ -8,8 +8,8 @@ Hi there! Here's some fun info for today:
 📅 Year Progress: ██████████████░░░░░░ 70.41%
 
 ## 🦕 Dinosaur of the Day
-**Draconyx**  
-*This "dragon claw" lived in late Jurassic Portugal.*
+**Nebulasaurus**  
+*This "nebula lizard" was recently discovered in China.*
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAadinP&show_icons=true&theme=tokyonight)
