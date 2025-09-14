@@ -87,8 +87,6 @@ Hi there! Here's some fun info for today:
 
 {ascii_dino}
 
-<\div>
-
 > ### **{dino_name}**
 > {dino_desc}
 
@@ -98,6 +96,9 @@ Hi there! Here's some fun info for today:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAadinP&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAadinP&layout=compact&theme=tokyonight&cache_seconds=1)
+
+
+</div>
 
     """
 
