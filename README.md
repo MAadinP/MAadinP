@@ -7,11 +7,26 @@ Hi there! Here's some fun info for today:
 
 📅 Year Progress: ██████████████░░░░░░ 70.41%
 
-## 🦕 Dinosaur of the Day
-**Nebulasaurus**  
-*This "nebula lizard" was recently discovered in China.*
+## 🌟 🦕 Dinosaur of the Day 🌟
+
+<div align="center">
+
+```text
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
+```
+
+<\div>
+
+> ### **Zuolong**
+> It was named after General Tso, of Chinese restaurant fame.
+
+---
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MAadinP&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAadinP&layout=compact&theme=tokyonight&cache_seconds=1)
