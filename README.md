@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **107 days** left in 2025!
+👉 **106 days** left in 2025!
 
-📅 Year Progress: ██████████████░░░░░░ 70.41%
+📅 Year Progress: ██████████████░░░░░░ 70.68%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Zhejiangosaurus**
-> The first identified nodosaur from Asia.
+> ### **Kotasaurus**
+> One of the few sauropods to be discovered in India.
 
 ---
 
