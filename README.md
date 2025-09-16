@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **106 days** left in 2025!
+👉 **105 days** left in 2025!
 
-📅 Year Progress: ██████████████░░░░░░ 70.68%
+📅 Year Progress: ██████████████░░░░░░ 70.96%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Kotasaurus**
-> One of the few sauropods to be discovered in India.
+> ### **Elaphrosaurus**
+> A lightweight theropod from the late Jurassic.
 
 ---
 
