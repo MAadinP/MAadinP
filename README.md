@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **103 days** left in 2025!
+👉 **102 days** left in 2025!
 
-📅 Year Progress: ██████████████░░░░░░ 71.51%
+📅 Year Progress: ██████████████░░░░░░ 71.78%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Hypselospinus**
-> It was once classified as a species of Iguanodon.
+> ### **Tarchia**
+> Its name means "brainy," but that may be an exaggeration.
 
 ---
 
