@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **102 days** left in 2025!
+👉 **101 days** left in 2025!
 
-📅 Year Progress: ██████████████░░░░░░ 71.78%
+📅 Year Progress: ██████████████░░░░░░ 72.05%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Tarchia**
-> Its name means "brainy," but that may be an exaggeration.
+> ### **Melanorosaurus**
+> Probably the largest prosauropod that ever lived.
 
 ---
 
