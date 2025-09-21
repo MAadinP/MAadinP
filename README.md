@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **101 days** left in 2025!
+👉 **100 days** left in 2025!
 
-📅 Year Progress: ██████████████░░░░░░ 72.05%
+📅 Year Progress: ██████████████░░░░░░ 72.33%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Melanorosaurus**
-> Probably the largest prosauropod that ever lived.
+> ### **Ilokelesia**
+> A primitive abelisaur from South America.
 
 ---
 
