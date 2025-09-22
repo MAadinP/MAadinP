@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **100 days** left in 2025!
+👉 **99 days** left in 2025!
 
-📅 Year Progress: ██████████████░░░░░░ 72.33%
+📅 Year Progress: ██████████████░░░░░░ 72.60%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Ilokelesia**
-> A primitive abelisaur from South America.
+> ### **Martharaptor**
+> This dinosaur was named after a Utah paleontologist.
 
 ---
 
