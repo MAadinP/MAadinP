@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **99 days** left in 2025!
+👉 **98 days** left in 2025!
 
-📅 Year Progress: ██████████████░░░░░░ 72.60%
+📅 Year Progress: ██████████████░░░░░░ 72.88%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Martharaptor**
-> This dinosaur was named after a Utah paleontologist.
+> ### **Siamotyrannus**
+> Despite its name, it wasn't a true tyrannosaur.
 
 ---
 
