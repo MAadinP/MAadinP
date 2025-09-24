@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **98 days** left in 2025!
+👉 **97 days** left in 2025!
 
-📅 Year Progress: ██████████████░░░░░░ 72.88%
+📅 Year Progress: ██████████████░░░░░░ 73.15%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Siamotyrannus**
-> Despite its name, it wasn't a true tyrannosaur.
+> ### **Equijubus**
+> Its name is Greek for "horse mane".
 
 ---
 
