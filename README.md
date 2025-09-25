@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **97 days** left in 2025!
+👉 **96 days** left in 2025!
 
-📅 Year Progress: ██████████████░░░░░░ 73.15%
+📅 Year Progress: ██████████████░░░░░░ 73.42%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Equijubus**
-> Its name is Greek for "horse mane".
+> ### **Wellnhoferia**
+> Was it really a species of Archaeopteryx?
 
 ---
 
