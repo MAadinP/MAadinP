@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **94 days** left in 2025!
+👉 **93 days** left in 2025!
 
-📅 Year Progress: ██████████████░░░░░░ 73.97%
+📅 Year Progress: ██████████████░░░░░░ 74.25%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Hypsilophodon**
-> This man-sized herbivore liked to eat and run.
+> ### **Lourinhanosaurus**
+> Not to be confused with Lourinhasaurus, below.
 
 ---
 
