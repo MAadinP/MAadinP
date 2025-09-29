@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **93 days** left in 2025!
+👉 **92 days** left in 2025!
 
-📅 Year Progress: ██████████████░░░░░░ 74.25%
+📅 Year Progress: ██████████████░░░░░░ 74.52%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Lourinhanosaurus**
-> Not to be confused with Lourinhasaurus, below.
+> ### **Protohadros**
+> Despite its name, it wasn't really the "first" hadrosaur.
 
 ---
 
