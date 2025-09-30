@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **92 days** left in 2025!
+👉 **91 days** left in 2025!
 
-📅 Year Progress: ██████████████░░░░░░ 74.52%
+📅 Year Progress: ██████████████░░░░░░ 74.79%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Protohadros**
-> Despite its name, it wasn't really the "first" hadrosaur.
+> ### **Huaxiagnathus**
+> One of the biggest dino-birds of its time.
 
 ---
 
