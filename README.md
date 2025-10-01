@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **91 days** left in 2025!
+👉 **90 days** left in 2025!
 
-📅 Year Progress: ██████████████░░░░░░ 74.79%
+📅 Year Progress: ███████████████░░░░░ 75.07%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Huaxiagnathus**
-> One of the biggest dino-birds of its time.
+> ### **Sinovenator**
+> This "Chinese hunter" preyed on its fellow dino-birds.
 
 ---
 
