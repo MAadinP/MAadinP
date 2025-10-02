@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **90 days** left in 2025!
+👉 **89 days** left in 2025!
 
-📅 Year Progress: ███████████████░░░░░ 75.07%
+📅 Year Progress: ███████████████░░░░░ 75.34%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Sinovenator**
-> This "Chinese hunter" preyed on its fellow dino-birds.
+> ### **Rapator**
+> No, this mysterious Australian theropod wasn't a raptor.
 
 ---
 
