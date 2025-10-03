@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **89 days** left in 2025!
+👉 **88 days** left in 2025!
 
-📅 Year Progress: ███████████████░░░░░ 75.34%
+📅 Year Progress: ███████████████░░░░░ 75.62%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Rapator**
-> No, this mysterious Australian theropod wasn't a raptor.
+> ### **Rubeosaurus**
+> A ceratopsian dinosaur from the Two Medicine Formation.
 
 ---
 
