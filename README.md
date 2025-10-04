@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **88 days** left in 2025!
+👉 **87 days** left in 2025!
 
-📅 Year Progress: ███████████████░░░░░ 75.62%
+📅 Year Progress: ███████████████░░░░░ 75.89%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Rubeosaurus**
-> A ceratopsian dinosaur from the Two Medicine Formation.
+> ### **Huaxiagnathus**
+> One of the biggest dino-birds of its time.
 
 ---
 
