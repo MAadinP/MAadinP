@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **87 days** left in 2025!
+👉 **86 days** left in 2025!
 
-📅 Year Progress: ███████████████░░░░░ 75.89%
+📅 Year Progress: ███████████████░░░░░ 76.16%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Huaxiagnathus**
-> One of the biggest dino-birds of its time.
+> ### **Charonosaurus**
+> This duck-billed dinosaur was much bigger than an elephant.
 
 ---
 
