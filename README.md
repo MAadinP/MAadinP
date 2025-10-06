@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **86 days** left in 2025!
+👉 **85 days** left in 2025!
 
-📅 Year Progress: ███████████████░░░░░ 76.16%
+📅 Year Progress: ███████████████░░░░░ 76.44%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Charonosaurus**
-> This duck-billed dinosaur was much bigger than an elephant.
+> ### **Turiasaurus**
+> The largest dinosaur ever to be discovered in Europe.
 
 ---
 
