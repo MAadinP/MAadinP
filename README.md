@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **85 days** left in 2025!
+👉 **84 days** left in 2025!
 
-📅 Year Progress: ███████████████░░░░░ 76.44%
+📅 Year Progress: ███████████████░░░░░ 76.71%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Turiasaurus**
-> The largest dinosaur ever to be discovered in Europe.
+> ### **Ojoceratops**
+> A very close relative of Triceratops.
 
 ---
 
