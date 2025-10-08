@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **84 days** left in 2025!
+👉 **83 days** left in 2025!
 
-📅 Year Progress: ███████████████░░░░░ 76.71%
+📅 Year Progress: ███████████████░░░░░ 76.99%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Ojoceratops**
-> A very close relative of Triceratops.
+> ### **Miragaia**
+> This stegosaur had an unusually long neck.
 
 ---
 
