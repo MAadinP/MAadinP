@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **83 days** left in 2025!
+👉 **82 days** left in 2025!
 
-📅 Year Progress: ███████████████░░░░░ 76.99%
+📅 Year Progress: ███████████████░░░░░ 77.26%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Miragaia**
-> This stegosaur had an unusually long neck.
+> ### **Monkonosaurus**
+> The first dinosaur ever to be discovered in modern-day Tibet.
 
 ---
 
