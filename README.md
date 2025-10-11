@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **81 days** left in 2025!
+👉 **80 days** left in 2025!
 
-📅 Year Progress: ███████████████░░░░░ 77.53%
+📅 Year Progress: ███████████████░░░░░ 77.81%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Jinzhousaurus**
-> This Asian dinosaur was one of the first hadrosaurs.
+> ### **Microraptor**
+> This tiny feathered dinosaur had four wings rather than two.
 
 ---
 
