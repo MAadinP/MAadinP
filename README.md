@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **80 days** left in 2025!
+👉 **79 days** left in 2025!
 
-📅 Year Progress: ███████████████░░░░░ 77.81%
+📅 Year Progress: ███████████████░░░░░ 78.08%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Microraptor**
-> This tiny feathered dinosaur had four wings rather than two.
+> ### **Eobrontosaurus**
+> This "dawn brontosaurus" isn't accepted by most experts.
 
 ---
 
