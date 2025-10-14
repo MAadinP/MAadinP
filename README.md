@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **78 days** left in 2025!
+👉 **77 days** left in 2025!
 
-📅 Year Progress: ███████████████░░░░░ 78.36%
+📅 Year Progress: ███████████████░░░░░ 78.63%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Angolatitan**
-> The first dinosaur ever to be discovered in Angola.
+> ### **Ornitholestes**
+> This "bird robber" probably preyed on small lizards instead.
 
 ---
 
