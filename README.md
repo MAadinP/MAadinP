@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **76 days** left in 2025!
+👉 **75 days** left in 2025!
 
-📅 Year Progress: ███████████████░░░░░ 78.90%
+📅 Year Progress: ███████████████░░░░░ 79.18%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Europasaurus**
-> The smallest sauropod ever discovered.
+> ### **Dracorex**
+> The only dinosaur to be named after the "Harry Potter" books.
 
 ---
 
