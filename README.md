@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **75 days** left in 2025!
+👉 **74 days** left in 2025!
 
-📅 Year Progress: ███████████████░░░░░ 79.18%
+📅 Year Progress: ███████████████░░░░░ 79.45%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Dracorex**
-> The only dinosaur to be named after the "Harry Potter" books.
+> ### **Stokesosaurus**
+> Some experts think this was the earliest tyrannosaur.
 
 ---
 
