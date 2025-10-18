@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **74 days** left in 2025!
+👉 **73 days** left in 2025!
 
-📅 Year Progress: ███████████████░░░░░ 79.45%
+📅 Year Progress: ███████████████░░░░░ 79.73%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Stokesosaurus**
-> Some experts think this was the earliest tyrannosaur.
+> ### **Zhenyuanlong**
+> Also known as the "fluffy feathered poodle from hell".
 
 ---
 
