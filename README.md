@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **73 days** left in 2025!
+👉 **72 days** left in 2025!
 
-📅 Year Progress: ███████████████░░░░░ 79.73%
+📅 Year Progress: ████████████████░░░░ 80.00%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Zhenyuanlong**
-> Also known as the "fluffy feathered poodle from hell".
+> ### **Aardonyx**
+> An early stage in the evolution of sauropods.
 
 ---
 
