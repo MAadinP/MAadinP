@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **72 days** left in 2025!
+👉 **71 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 80.00%
+📅 Year Progress: ████████████████░░░░ 80.27%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Aardonyx**
-> An early stage in the evolution of sauropods.
+> ### **Labocania**
+> It may or may not have been a true tyrannosaur.
 
 ---
 
