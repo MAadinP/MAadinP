@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **71 days** left in 2025!
+👉 **70 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 80.27%
+📅 Year Progress: ████████████████░░░░ 80.55%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Labocania**
-> It may or may not have been a true tyrannosaur.
+> ### **Amazonsaurus**
+> One of the few dinosaurs to be found in the Amazon basin.
 
 ---
 
