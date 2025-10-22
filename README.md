@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **70 days** left in 2025!
+👉 **69 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 80.55%
+📅 Year Progress: ████████████████░░░░ 80.82%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Amazonsaurus**
-> One of the few dinosaurs to be found in the Amazon basin.
+> ### **Charonosaurus**
+> This duck-billed dinosaur was much bigger than an elephant.
 
 ---
 
