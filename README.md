@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **69 days** left in 2025!
+👉 **68 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 80.82%
+📅 Year Progress: ████████████████░░░░ 81.10%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Charonosaurus**
-> This duck-billed dinosaur was much bigger than an elephant.
+> ### **Titanosaurus**
+> This sauropod may—or may not—have been a unique member of its genus.
 
 ---
 
