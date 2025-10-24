@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **68 days** left in 2025!
+👉 **67 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 81.10%
+📅 Year Progress: ████████████████░░░░ 81.37%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Titanosaurus**
-> This sauropod may—or may not—have been a unique member of its genus.
+> ### **Minotaurasaurus**
+> Named after the half-man, half-bull of Greek myth.
 
 ---
 
