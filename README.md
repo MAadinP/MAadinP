@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **67 days** left in 2025!
+👉 **66 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 81.37%
+📅 Year Progress: ████████████████░░░░ 81.64%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Minotaurasaurus**
-> Named after the half-man, half-bull of Greek myth.
+> ### **Mymoorapelta**
+> Named after the Mygand-Moore quarry in Colorado.
 
 ---
 
