@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **66 days** left in 2025!
+👉 **65 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 81.64%
+📅 Year Progress: ████████████████░░░░ 81.92%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Mymoorapelta**
-> Named after the Mygand-Moore quarry in Colorado.
+> ### **Staurikosaurus**
+> Another primitive theropod of the Triassic period.
 
 ---
 
