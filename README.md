@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **65 days** left in 2025!
+👉 **64 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 81.92%
+📅 Year Progress: ████████████████░░░░ 82.19%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Staurikosaurus**
-> Another primitive theropod of the Triassic period.
+> ### **Leyesaurus**
+> A newly discovered prosauropod from South America.
 
 ---
 
