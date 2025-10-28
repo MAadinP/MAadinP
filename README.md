@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **64 days** left in 2025!
+👉 **63 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 82.19%
+📅 Year Progress: ████████████████░░░░ 82.47%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Leyesaurus**
-> A newly discovered prosauropod from South America.
+> ### **Ferganasaurus**
+> The first dinosaur ever to be discovered in the USSR.
 
 ---
 
