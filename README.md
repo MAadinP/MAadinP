@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **63 days** left in 2025!
+👉 **62 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 82.47%
+📅 Year Progress: ████████████████░░░░ 82.74%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Ferganasaurus**
-> The first dinosaur ever to be discovered in the USSR.
+> ### **Chasmosaurus**
+> The only dinosaur that came with its own awning.
 
 ---
 
