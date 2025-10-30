@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **62 days** left in 2025!
+👉 **61 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 82.74%
+📅 Year Progress: ████████████████░░░░ 83.01%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Chasmosaurus**
-> The only dinosaur that came with its own awning.
+> ### **Lamplughsaura**
+> This early sauropod was discovered in India.
 
 ---
 
