@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **61 days** left in 2025!
+👉 **60 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 83.01%
+📅 Year Progress: ████████████████░░░░ 83.29%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Lamplughsaura**
-> This early sauropod was discovered in India.
+> ### **Tuojiangosaurus**
+> One of the most well-known Chinese stegosaurs.
 
 ---
 
