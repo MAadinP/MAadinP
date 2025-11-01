@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **60 days** left in 2025!
+👉 **59 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 83.29%
+📅 Year Progress: ████████████████░░░░ 83.56%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Tuojiangosaurus**
-> One of the most well-known Chinese stegosaurs.
+> ### **Wulagasaurus**
+> The earliest saurolophine hadrosaur in the fossil record.
 
 ---
 
