@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **59 days** left in 2025!
+👉 **58 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 83.56%
+📅 Year Progress: ████████████████░░░░ 83.84%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Wulagasaurus**
-> The earliest saurolophine hadrosaur in the fossil record.
+> ### **Veterupristisaurus**
+> One of the earliest carcharodontosaurs yet identified.
 
 ---
 
