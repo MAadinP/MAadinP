@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **58 days** left in 2025!
+👉 **57 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 83.84%
+📅 Year Progress: ████████████████░░░░ 84.11%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Veterupristisaurus**
-> One of the earliest carcharodontosaurs yet identified.
+> ### **Panphagia**
+> Its name is Greek for "eats everything".
 
 ---
 
