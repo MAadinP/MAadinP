@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **57 days** left in 2025!
+👉 **56 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 84.11%
+📅 Year Progress: ████████████████░░░░ 84.38%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Panphagia**
-> Its name is Greek for "eats everything".
+> ### **Hypacrosaurus**
+> We know a lot about this dinosaur's family life.
 
 ---
 
