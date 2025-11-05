@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **56 days** left in 2025!
+👉 **55 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 84.38%
+📅 Year Progress: ████████████████░░░░ 84.66%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Hypacrosaurus**
-> We know a lot about this dinosaur's family life.
+> ### **Yutyrannus**
+> The largest feathered tyrannosaur yet identified.
 
 ---
 
