@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **54 days** left in 2025!
+👉 **53 days** left in 2025!
 
-📅 Year Progress: ████████████████░░░░ 84.93%
+📅 Year Progress: █████████████████░░░ 85.21%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Unknown Dino**
-> Could not fetch dinosaur data
+> ### **Iguanodon**
+> The second dinosaur in history ever to receive a name.
 
 ---
 
