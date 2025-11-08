@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **53 days** left in 2025!
+👉 **52 days** left in 2025!
 
-📅 Year Progress: █████████████████░░░ 85.21%
+📅 Year Progress: █████████████████░░░ 85.48%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Iguanodon**
-> The second dinosaur in history ever to receive a name.
+> ### **Dilong**
+> This "emperor dragon" may have been an ancestor of T. Rex.
 
 ---
 
