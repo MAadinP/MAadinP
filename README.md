@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **52 days** left in 2025!
+👉 **51 days** left in 2025!
 
-📅 Year Progress: █████████████████░░░ 85.48%
+📅 Year Progress: █████████████████░░░ 85.75%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Dilong**
-> This "emperor dragon" may have been an ancestor of T. Rex.
+> ### **Latirhinus**
+> This duck-billed dinosaur had an enormous nose.
 
 ---
 
