@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **50 days** left in 2025!
+👉 **49 days** left in 2025!
 
-📅 Year Progress: █████████████████░░░ 86.03%
+📅 Year Progress: █████████████████░░░ 86.30%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Hoplitosaurus**
-> Named after the heavily armored soldiers of classical Greece.
+> ### **Kryptops**
+> This dinosaur came equipped with its own face mask.
 
 ---
 
