@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **49 days** left in 2025!
+👉 **48 days** left in 2025!
 
-📅 Year Progress: █████████████████░░░ 86.30%
+📅 Year Progress: █████████████████░░░ 86.58%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Kryptops**
-> This dinosaur came equipped with its own face mask.
+> ### **Camelotia**
+> An early member of the line that evolved into sauropods.
 
 ---
 
