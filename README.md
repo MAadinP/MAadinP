@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **48 days** left in 2025!
+👉 **47 days** left in 2025!
 
-📅 Year Progress: █████████████████░░░ 86.58%
+📅 Year Progress: █████████████████░░░ 86.85%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Camelotia**
-> An early member of the line that evolved into sauropods.
+> ### **Philovenator**
+> As its name says this dinosaur "loved to hunt".
 
 ---
 
