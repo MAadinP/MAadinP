@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **47 days** left in 2025!
+👉 **46 days** left in 2025!
 
-📅 Year Progress: █████████████████░░░ 86.85%
+📅 Year Progress: █████████████████░░░ 87.12%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Philovenator**
-> As its name says this dinosaur "loved to hunt".
+> ### **Janenschia**
+> The earliest titanosaur in the fossil record.
 
 ---
 
