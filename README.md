@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **46 days** left in 2025!
+👉 **45 days** left in 2025!
 
-📅 Year Progress: █████████████████░░░ 87.12%
+📅 Year Progress: █████████████████░░░ 87.40%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Janenschia**
-> The earliest titanosaur in the fossil record.
+> ### **Tylocephale**
+> The tallest-domed of all the pachycephalosaurs.
 
 ---
 
