@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **44 days** left in 2025!
+👉 **43 days** left in 2025!
 
-📅 Year Progress: █████████████████░░░ 87.67%
+📅 Year Progress: █████████████████░░░ 87.95%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Rahiolisaurus**
-> This Indian dinosaur is represented by seven tangled individuals.
+> ### **Luanchuanraptor**
+> A small, poorly understood Asian raptor.
 
 ---
 
