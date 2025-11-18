@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **43 days** left in 2025!
+👉 **42 days** left in 2025!
 
-📅 Year Progress: █████████████████░░░ 87.95%
+📅 Year Progress: █████████████████░░░ 88.22%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Luanchuanraptor**
-> A small, poorly understood Asian raptor.
+> ### **Magnirostris**
+> This ceratopsian had an unusually big beak.
 
 ---
 
