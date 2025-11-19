@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **42 days** left in 2025!
+👉 **41 days** left in 2025!
 
-📅 Year Progress: █████████████████░░░ 88.22%
+📅 Year Progress: █████████████████░░░ 88.49%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Magnirostris**
-> This ceratopsian had an unusually big beak.
+> ### **Leshansaurus**
+> Did this meat-eater feast on small, armored dinosaurs?
 
 ---
 
