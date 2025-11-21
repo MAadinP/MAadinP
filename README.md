@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **40 days** left in 2025!
+👉 **39 days** left in 2025!
 
-📅 Year Progress: █████████████████░░░ 88.77%
+📅 Year Progress: █████████████████░░░ 89.04%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Stegosaurus**
-> The small-brained, spike-tailed, plant-eating dinosaur.
+> ### **Mahakala**
+> This dino-bird was named after a Buddhist deity.
 
 ---
 
