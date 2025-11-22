@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **39 days** left in 2025!
+👉 **38 days** left in 2025!
 
-📅 Year Progress: █████████████████░░░ 89.04%
+📅 Year Progress: █████████████████░░░ 89.32%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Mahakala**
-> This dino-bird was named after a Buddhist deity.
+> ### **Valdoraptor**
+> This early "bird mimic" dinosaur lived in England.
 
 ---
 
