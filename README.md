@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **37 days** left in 2025!
+👉 **36 days** left in 2025!
 
-📅 Year Progress: █████████████████░░░ 89.59%
+📅 Year Progress: █████████████████░░░ 89.86%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Lapparentosaurus**
-> This sauropod was discovered in Madagascar.
+> ### **Tsaagan**
+> One of the earliest raptors yet discovered.
 
 ---
 
