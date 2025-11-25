@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **36 days** left in 2025!
+👉 **35 days** left in 2025!
 
-📅 Year Progress: █████████████████░░░ 89.86%
+📅 Year Progress: ██████████████████░░ 90.14%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Tsaagan**
-> One of the earliest raptors yet discovered.
+> ### **Unknown Dino**
+> Could not fetch dinosaur data
 
 ---
 
