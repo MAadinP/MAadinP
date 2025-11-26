@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **35 days** left in 2025!
+👉 **34 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 90.14%
+📅 Year Progress: ██████████████████░░ 90.41%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Unknown Dino**
-> Could not fetch dinosaur data
+> ### **Anatotitan**
+> This hadrosaur's name means "giant duck".
 
 ---
 
