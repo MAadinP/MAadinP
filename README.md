@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **34 days** left in 2025!
+👉 **33 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 90.41%
+📅 Year Progress: ██████████████████░░ 90.68%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Anatotitan**
-> This hadrosaur's name means "giant duck".
+> ### **Texacephale**
+> This Texan pachycephalosaur was named in 2010.
 
 ---
 
