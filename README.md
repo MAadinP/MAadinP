@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **33 days** left in 2025!
+👉 **32 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 90.68%
+📅 Year Progress: ██████████████████░░ 90.96%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Texacephale**
-> This Texan pachycephalosaur was named in 2010.
+> ### **Andesaurus**
+> This titanosaur rivaled Argentinosaurus in size.
 
 ---
 
