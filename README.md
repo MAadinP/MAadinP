@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **32 days** left in 2025!
+👉 **31 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 90.96%
+📅 Year Progress: ██████████████████░░ 91.23%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Andesaurus**
-> This titanosaur rivaled Argentinosaurus in size.
+> ### **Panamericansaurus**
+> This titanosaur was named after an energy company.
 
 ---
 
