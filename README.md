@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **31 days** left in 2025!
+👉 **30 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 91.23%
+📅 Year Progress: ██████████████████░░ 91.51%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Panamericansaurus**
-> This titanosaur was named after an energy company.
+> ### **Bahariasaurus**
+> This obscure carnivore may have been the size of T. Rex.
 
 ---
 
