@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **30 days** left in 2025!
+👉 **29 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 91.51%
+📅 Year Progress: ██████████████████░░ 91.78%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Bahariasaurus**
-> This obscure carnivore may have been the size of T. Rex.
+> ### **Unaysaurus**
+> One of the oldest prosauropods yet discovered.
 
 ---
 
