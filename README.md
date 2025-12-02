@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **29 days** left in 2025!
+👉 **28 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 91.78%
+📅 Year Progress: ██████████████████░░ 92.05%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Unaysaurus**
-> One of the oldest prosauropods yet discovered.
+> ### **Giganotosaurus**
+> Not quite a "Gigantosaurus," but close enough.
 
 ---
 
