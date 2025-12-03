@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **28 days** left in 2025!
+👉 **27 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 92.05%
+📅 Year Progress: ██████████████████░░ 92.33%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Giganotosaurus**
-> Not quite a "Gigantosaurus," but close enough.
+> ### **Rinconsaurus**
+> A modestly sized titanosaur of South America.
 
 ---
 
