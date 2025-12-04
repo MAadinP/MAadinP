@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **27 days** left in 2025!
+👉 **26 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 92.33%
+📅 Year Progress: ██████████████████░░ 92.60%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Rinconsaurus**
-> A modestly sized titanosaur of South America.
+> ### **Majungasaurus**
+> Fairly--or unfairly--known as the "cannibal dinosaur".
 
 ---
 
