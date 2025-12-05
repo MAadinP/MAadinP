@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **26 days** left in 2025!
+👉 **25 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 92.60%
+📅 Year Progress: ██████████████████░░ 92.88%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Majungasaurus**
-> Fairly--or unfairly--known as the "cannibal dinosaur".
+> ### **Batyrosaurus**
+> One of the most basal hadrosaurs yet identified.
 
 ---
 
