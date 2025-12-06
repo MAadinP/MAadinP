@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **25 days** left in 2025!
+👉 **24 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 92.88%
+📅 Year Progress: ██████████████████░░ 93.15%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Batyrosaurus**
-> One of the most basal hadrosaurs yet identified.
+> ### **Lophorhothon**
+> The first dinosaur ever to be discovered in Alabama.
 
 ---
 
