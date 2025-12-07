@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **24 days** left in 2025!
+👉 **23 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 93.15%
+📅 Year Progress: ██████████████████░░ 93.42%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Lophorhothon**
-> The first dinosaur ever to be discovered in Alabama.
+> ### **Mussaurus**
+> This "mouse lizard" lived in Triassic South America.
 
 ---
 
