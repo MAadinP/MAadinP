@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **23 days** left in 2025!
+👉 **22 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 93.42%
+📅 Year Progress: ██████████████████░░ 93.70%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Mussaurus**
-> This "mouse lizard" lived in Triassic South America.
+> ### **Lourinhasaurus**
+> Not to be confused with Lourinhanosaurus, above.
 
 ---
 
