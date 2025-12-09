@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **22 days** left in 2025!
+👉 **21 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 93.70%
+📅 Year Progress: ██████████████████░░ 93.97%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Lourinhasaurus**
-> Not to be confused with Lourinhanosaurus, above.
+> ### **Yixianosaurus**
+> How did this dino-bird use its long fingers?
 
 ---
 
