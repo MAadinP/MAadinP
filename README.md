@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **21 days** left in 2025!
+👉 **20 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 93.97%
+📅 Year Progress: ██████████████████░░ 94.25%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Yixianosaurus**
-> How did this dino-bird use its long fingers?
+> ### **Quaesitosaurus**
+> This titanosaur may have had remarkably sharp hearing.
 
 ---
 
