@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **20 days** left in 2025!
+👉 **19 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 94.25%
+📅 Year Progress: ██████████████████░░ 94.52%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Quaesitosaurus**
-> This titanosaur may have had remarkably sharp hearing.
+> ### **Arrhinoceratops**
+> This ceratopsian was named for its "missing" nose horn.
 
 ---
 
