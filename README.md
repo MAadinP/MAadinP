@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **19 days** left in 2025!
+👉 **18 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 94.52%
+📅 Year Progress: ██████████████████░░ 94.79%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Arrhinoceratops**
-> This ceratopsian was named for its "missing" nose horn.
+> ### **Peloroplites**
+> This "monstrous Hoplite" was recently discovered in Utah.
 
 ---
 
