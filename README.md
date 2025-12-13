@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **18 days** left in 2025!
+👉 **17 days** left in 2025!
 
-📅 Year Progress: ██████████████████░░ 94.79%
+📅 Year Progress: ███████████████████░ 95.07%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Peloroplites**
-> This "monstrous Hoplite" was recently discovered in Utah.
+> ### **Amphicoelias**
+> Could it have been the biggest dinosaur that ever lived?
 
 ---
 
