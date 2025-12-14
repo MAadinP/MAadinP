@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **17 days** left in 2025!
+👉 **16 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 95.07%
+📅 Year Progress: ███████████████████░ 95.34%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Amphicoelias**
-> Could it have been the biggest dinosaur that ever lived?
+> ### **Tatankacephalus**
+> A brand-new ankylosaur from North America.
 
 ---
 
