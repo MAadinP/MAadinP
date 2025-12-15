@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **16 days** left in 2025!
+👉 **15 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 95.34%
+📅 Year Progress: ███████████████████░ 95.62%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Tatankacephalus**
-> A brand-new ankylosaur from North America.
+> ### **Duriavenator**
+> Yet another theropod that was once assigned to Megalosaurus.
 
 ---
 
