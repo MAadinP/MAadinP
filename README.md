@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **15 days** left in 2025!
+👉 **14 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 95.62%
+📅 Year Progress: ███████████████████░ 95.89%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Duriavenator**
-> Yet another theropod that was once assigned to Megalosaurus.
+> ### **Protohadros**
+> Despite its name, it wasn't really the "first" hadrosaur.
 
 ---
 
