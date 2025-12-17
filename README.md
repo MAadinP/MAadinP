@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **14 days** left in 2025!
+👉 **13 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 95.89%
+📅 Year Progress: ███████████████████░ 96.16%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Protohadros**
-> Despite its name, it wasn't really the "first" hadrosaur.
+> ### **Compsognathus**
+> This dinosaur was the size of a chicken, but much meaner.
 
 ---
 
