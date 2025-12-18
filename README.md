@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **13 days** left in 2025!
+👉 **12 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 96.16%
+📅 Year Progress: ███████████████████░ 96.44%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Compsognathus**
-> This dinosaur was the size of a chicken, but much meaner.
+> ### **Aeolosaurus**
+> Could this titanosaur have reared up on its hind legs?
 
 ---
 
