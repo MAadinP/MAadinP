@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **12 days** left in 2025!
+👉 **11 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 96.44%
+📅 Year Progress: ███████████████████░ 96.71%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Aeolosaurus**
-> Could this titanosaur have reared up on its hind legs?
+> ### **Beishanlong**
+> This bird mimic weighed over half a ton.
 
 ---
 
