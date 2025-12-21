@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **10 days** left in 2025!
+👉 **9 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 96.99%
+📅 Year Progress: ███████████████████░ 97.26%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Judiceratops**
-> The earliest Chasmosaurus ancestor yet identified.
+> ### **Machairasaurus**
+> This "short scimitar lizard" was a close relative of Oviraptor.
 
 ---
 
