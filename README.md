@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **9 days** left in 2025!
+👉 **8 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 97.26%
+📅 Year Progress: ███████████████████░ 97.53%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Machairasaurus**
-> This "short scimitar lizard" was a close relative of Oviraptor.
+> ### **Dryptosaurus**
+> The first tyrannosaur to be discovered in the U.S.
 
 ---
 
