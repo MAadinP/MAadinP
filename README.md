@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **8 days** left in 2025!
+👉 **7 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 97.53%
+📅 Year Progress: ███████████████████░ 97.81%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Dryptosaurus**
-> The first tyrannosaur to be discovered in the U.S.
+> ### **Proceratosaurus**
+> Despite its name, not a close relative of Ceratosaurus.
 
 ---
 
