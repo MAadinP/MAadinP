@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **7 days** left in 2025!
+👉 **6 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 97.81%
+📅 Year Progress: ███████████████████░ 98.08%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Proceratosaurus**
-> Despite its name, not a close relative of Ceratosaurus.
+> ### **Rhoetosaurus**
+> A medium-sized sauropod from Down Under.
 
 ---
 
