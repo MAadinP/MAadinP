@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **6 days** left in 2025!
+👉 **5 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 98.08%
+📅 Year Progress: ███████████████████░ 98.36%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Rhoetosaurus**
-> A medium-sized sauropod from Down Under.
+> ### **Bicentenaria**
+> This dinosaur was named for Argentina's 200th anniversary.
 
 ---
 
