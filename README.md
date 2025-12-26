@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **5 days** left in 2025!
+👉 **4 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 98.36%
+📅 Year Progress: ███████████████████░ 98.63%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Bicentenaria**
-> This dinosaur was named for Argentina's 200th anniversary.
+> ### **Guaibasaurus**
+> Was this early dinosaur a theropod or a prosauropod?
 
 ---
 
