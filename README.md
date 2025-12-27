@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **4 days** left in 2025!
+👉 **3 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 98.63%
+📅 Year Progress: ███████████████████░ 98.90%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Guaibasaurus**
-> Was this early dinosaur a theropod or a prosauropod?
+> ### **Majungasaurus**
+> Fairly--or unfairly--known as the "cannibal dinosaur".
 
 ---
 
