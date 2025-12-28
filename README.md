@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **3 days** left in 2025!
+👉 **2 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 98.90%
+📅 Year Progress: ███████████████████░ 99.18%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Majungasaurus**
-> Fairly--or unfairly--known as the "cannibal dinosaur".
+> ### **Xiongguanlong**
+> A small, primitive tyrannosaur from Asia.
 
 ---
 
