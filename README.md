@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **2 days** left in 2025!
+👉 **1 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 99.18%
+📅 Year Progress: ███████████████████░ 99.45%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Xiongguanlong**
-> A small, primitive tyrannosaur from Asia.
+> ### **Sarcolestes**
+> The most likely ancestor of the ankylosaurs.
 
 ---
 
