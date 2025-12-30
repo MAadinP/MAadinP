@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **1 days** left in 2025!
+👉 **0 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 99.45%
+📅 Year Progress: ███████████████████░ 99.73%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Sarcolestes**
-> The most likely ancestor of the ankylosaurs.
+> ### **Shantungosaurus**
+> The biggest of all the duck-billed dinosaurs.
 
 ---
 
