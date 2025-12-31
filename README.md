@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **0 days** left in 2025!
+👉 **-1 days** left in 2025!
 
-📅 Year Progress: ███████████████████░ 99.73%
+📅 Year Progress: ████████████████████ 100.00%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Shantungosaurus**
-> The biggest of all the duck-billed dinosaurs.
+> ### **Paronychodon**
+> This "tooth taxon" didn't make it out of the 19th century.
 
 ---
 
