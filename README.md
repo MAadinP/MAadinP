@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **-1 days** left in 2025!
+👉 **363 days** left in 2026!
 
-📅 Year Progress: ████████████████████ 100.00%
+📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 0.27%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Paronychodon**
-> This "tooth taxon" didn't make it out of the 19th century.
+> ### **Theiophytalia**
+> Its name means "garden of the gods".
 
 ---
 
