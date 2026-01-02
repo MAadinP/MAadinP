@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **363 days** left in 2026!
+👉 **362 days** left in 2026!
 
-📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 0.27%
+📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 0.55%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Theiophytalia**
-> Its name means "garden of the gods".
+> ### **Gigantspinosaurus**
+> It may or may not have been a true stegosaur.
 
 ---
 
