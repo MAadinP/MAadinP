@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **362 days** left in 2026!
+👉 **361 days** left in 2026!
 
-📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 0.55%
+📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 0.82%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Gigantspinosaurus**
-> It may or may not have been a true stegosaur.
+> ### **Jingshanosaurus**
+> A close relative of Yunnanosaurus.
 
 ---
 
