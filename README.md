@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **360 days** left in 2026!
+👉 **359 days** left in 2026!
 
-📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 1.10%
+📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 1.37%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Erectopus**
-> This "upright-footed" dinosaur is a 19th-century enigma.
+> ### **Tanycolagreus**
+> This mysterious theropod was once thought to be a species of Coelurus.
 
 ---
 
