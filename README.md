@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **359 days** left in 2026!
+👉 **358 days** left in 2026!
 
-📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 1.37%
+📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 1.64%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Tanycolagreus**
-> This mysterious theropod was once thought to be a species of Coelurus.
+> ### **Bothriospondylus**
+> A case study in dinosaur confusion.
 
 ---
 
