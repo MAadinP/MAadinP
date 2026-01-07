@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **358 days** left in 2026!
+👉 **357 days** left in 2026!
 
-📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 1.64%
+📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 1.92%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Bothriospondylus**
-> A case study in dinosaur confusion.
+> ### **Deinonychus**
+> One of the most fearsome raptors of the Cretaceous period.
 
 ---
 
