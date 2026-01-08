@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **357 days** left in 2026!
+👉 **356 days** left in 2026!
 
-📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 1.92%
+📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 2.19%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Deinonychus**
-> One of the most fearsome raptors of the Cretaceous period.
+> ### **Aerosteon**
+> This air-boned dinosaur may have breathed like a bird.
 
 ---
 
