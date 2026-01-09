@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **356 days** left in 2026!
+👉 **355 days** left in 2026!
 
-📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 2.19%
+📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 2.47%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Aerosteon**
-> This air-boned dinosaur may have breathed like a bird.
+> ### **Unknown Dino**
+> Could not fetch dinosaur data
 
 ---
 
