@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **349 days** left in 2026!
+👉 **348 days** left in 2026!
 
-📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 4.11%
+📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 4.38%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Unknown Dino**
-> Could not fetch dinosaur data
+> ### **Rebbachisaurus**
+> A poorly understood sauropod from northern Africa.
 
 ---
 
