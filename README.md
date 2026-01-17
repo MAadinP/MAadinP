@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **348 days** left in 2026!
+👉 **347 days** left in 2026!
 
-📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 4.38%
+📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 4.66%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Rebbachisaurus**
-> A poorly understood sauropod from northern Africa.
+> ### **Anatotitan**
+> This hadrosaur's name means "giant duck".
 
 ---
 
