@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **347 days** left in 2026!
+👉 **346 days** left in 2026!
 
-📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 4.66%
+📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 4.93%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Anatotitan**
-> This hadrosaur's name means "giant duck".
+> ### **Zupaysaurus**
+> This "devil lizard" was one of the earliest theropods.
 
 ---
 
