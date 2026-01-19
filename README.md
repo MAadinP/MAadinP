@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **346 days** left in 2026!
+👉 **345 days** left in 2026!
 
-📅 Year Progress: ░░░░░░░░░░░░░░░░░░░░ 4.93%
+📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 5.21%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Zupaysaurus**
-> This "devil lizard" was one of the earliest theropods.
+> ### **Mantellisaurus**
+> Named after the famous fossil hunter Gideon Mantell.
 
 ---
 
