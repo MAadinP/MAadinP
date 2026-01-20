@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **345 days** left in 2026!
+👉 **344 days** left in 2026!
 
-📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 5.21%
+📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 5.48%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Mantellisaurus**
-> Named after the famous fossil hunter Gideon Mantell.
+> ### **Gargoyleosaurus**
+> This "gargoyle lizard" was an ancestor of Ankylosaurus.
 
 ---
 
