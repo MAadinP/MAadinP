@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **343 days** left in 2026!
+👉 **342 days** left in 2026!
 
-📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 5.75%
+📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 6.03%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Tochisaurus**
-> A large troodont of late Cretaceous Asia.
+> ### **Indosuchus**
+> This "Indian crocodile" was actually a dinosaur.
 
 ---
 
