@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **342 days** left in 2026!
+👉 **341 days** left in 2026!
 
-📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 6.03%
+📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 6.30%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Indosuchus**
-> This "Indian crocodile" was actually a dinosaur.
+> ### **Aegyptosaurus**
+> Try and guess which country this dinosaur was found in.
 
 ---
 
