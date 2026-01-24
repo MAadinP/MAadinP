@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **341 days** left in 2026!
+👉 **340 days** left in 2026!
 
-📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 6.30%
+📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 6.58%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Aegyptosaurus**
-> Try and guess which country this dinosaur was found in.
+> ### **Vahiny**
+> Its name is Malagasy for "traveler".
 
 ---
 
