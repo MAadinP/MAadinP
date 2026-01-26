@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **339 days** left in 2026!
+👉 **338 days** left in 2026!
 
-📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 6.85%
+📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 7.12%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Argyrosaurus**
-> A plus-sized titanosaur from South America.
+> ### **Zhuchengceratops**
+> It probably figured on the lunch menu of Zhuchengtyrannus.
 
 ---
 
