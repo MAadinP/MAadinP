@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **337 days** left in 2026!
+👉 **336 days** left in 2026!
 
-📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 7.40%
+📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 7.67%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Aerosteon**
-> This air-boned dinosaur may have breathed like a bird.
+> ### **Nigersaurus**
+> This African sauropod had a huge number of teeth.
 
 ---
 
