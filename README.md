@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **336 days** left in 2026!
+👉 **335 days** left in 2026!
 
-📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 7.67%
+📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 7.95%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Nigersaurus**
-> This African sauropod had a huge number of teeth.
+> ### **Pawpawsaurus**
+> This ancient nodosaur was discovered in Texas.
 
 ---
 
