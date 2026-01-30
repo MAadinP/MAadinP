@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **335 days** left in 2026!
+👉 **334 days** left in 2026!
 
-📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 7.95%
+📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 8.22%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Pawpawsaurus**
-> This ancient nodosaur was discovered in Texas.
+> ### **Stegosaurus**
+> The small-brained, spike-tailed, plant-eating dinosaur.
 
 ---
 
