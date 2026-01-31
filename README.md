@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **334 days** left in 2026!
+👉 **333 days** left in 2026!
 
-📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 8.22%
+📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 8.49%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Stegosaurus**
-> The small-brained, spike-tailed, plant-eating dinosaur.
+> ### **Tenontosaurus**
+> This long-tailed herbivore was hunted by Deinonychus.
 
 ---
 
