@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **332 days** left in 2026!
+👉 **331 days** left in 2026!
 
-📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 8.77%
+📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 9.04%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Leptoceratops**
-> One of the most primitive of all ceratopsians.
+> ### **Qantassaurus**
+> Named after the national airline of Australia.
 
 ---
 
