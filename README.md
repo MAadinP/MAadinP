@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **331 days** left in 2026!
+👉 **330 days** left in 2026!
 
-📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 9.04%
+📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 9.32%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Qantassaurus**
-> Named after the national airline of Australia.
+> ### **Beishanlong**
+> This bird mimic weighed over half a ton.
 
 ---
 
