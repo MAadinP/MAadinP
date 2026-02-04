@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **330 days** left in 2026!
+👉 **329 days** left in 2026!
 
-📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 9.32%
+📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 9.59%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Beishanlong**
-> This bird mimic weighed over half a ton.
+> ### **Segisaurus**
+> An early dinosaur closely related to Coelophysis.
 
 ---
 
