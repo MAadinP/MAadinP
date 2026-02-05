@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **329 days** left in 2026!
+👉 **328 days** left in 2026!
 
-📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 9.59%
+📅 Year Progress: █░░░░░░░░░░░░░░░░░░░ 9.86%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Segisaurus**
-> An early dinosaur closely related to Coelophysis.
+> ### **Saichania**
+> This ankylosaur's name is Chinese for "beautiful".
 
 ---
 
