@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **326 days** left in 2026!
+👉 **325 days** left in 2026!
 
-📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 10.41%
+📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 10.68%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Jeholosaurus**
-> This ornithopod may have had an omnivorous diet.
+> ### **Sulaimanisaurus**
+> One of the few dinosaurs ever to be discovered in Pakistan.
 
 ---
 
