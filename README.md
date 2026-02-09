@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **325 days** left in 2026!
+👉 **324 days** left in 2026!
 
-📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 10.68%
+📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 10.96%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Sulaimanisaurus**
-> One of the few dinosaurs ever to be discovered in Pakistan.
+> ### **Amphicoelias**
+> Could it have been the biggest dinosaur that ever lived?
 
 ---
 
