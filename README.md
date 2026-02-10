@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **324 days** left in 2026!
+👉 **323 days** left in 2026!
 
-📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 10.96%
+📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 11.23%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Amphicoelias**
-> Could it have been the biggest dinosaur that ever lived?
+> ### **Nemegtomaia**
+> This dinosaur had a bizarrely shaped skull.
 
 ---
 
