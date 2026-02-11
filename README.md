@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **323 days** left in 2026!
+👉 **322 days** left in 2026!
 
-📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 11.23%
+📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 11.51%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Nemegtomaia**
-> This dinosaur had a bizarrely shaped skull.
+> ### **Ekrixinatosaurus**
+> Its name means "explosion-born lizard".
 
 ---
 
