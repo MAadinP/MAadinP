@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **322 days** left in 2026!
+👉 **321 days** left in 2026!
 
-📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 11.51%
+📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 11.78%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Ekrixinatosaurus**
-> Its name means "explosion-born lizard".
+> ### **Udanoceratops**
+> The largest ceratopsian to run on two legs.
 
 ---
 
