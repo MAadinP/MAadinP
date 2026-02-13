@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **321 days** left in 2026!
+👉 **320 days** left in 2026!
 
-📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 11.78%
+📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 12.05%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Udanoceratops**
-> The largest ceratopsian to run on two legs.
+> ### **Rubeosaurus**
+> A ceratopsian dinosaur from the Two Medicine Formation.
 
 ---
 
