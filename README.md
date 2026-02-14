@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **320 days** left in 2026!
+👉 **319 days** left in 2026!
 
-📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 12.05%
+📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 12.33%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Rubeosaurus**
-> A ceratopsian dinosaur from the Two Medicine Formation.
+> ### **Tenontosaurus**
+> This long-tailed herbivore was hunted by Deinonychus.
 
 ---
 
