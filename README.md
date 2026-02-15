@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **319 days** left in 2026!
+👉 **318 days** left in 2026!
 
-📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 12.33%
+📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 12.60%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Tenontosaurus**
-> This long-tailed herbivore was hunted by Deinonychus.
+> ### **Huaxiaosaurus**
+> Might it be an unusually large specimen of Shantungosaurus?
 
 ---
 
