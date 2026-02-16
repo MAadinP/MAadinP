@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **318 days** left in 2026!
+👉 **317 days** left in 2026!
 
-📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 12.60%
+📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 12.88%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Huaxiaosaurus**
-> Might it be an unusually large specimen of Shantungosaurus?
+> ### **Appalachiosaurus**
+> One of the few dinosaurs ever to be found in Alabama.
 
 ---
 
