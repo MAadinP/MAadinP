@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **317 days** left in 2026!
+👉 **316 days** left in 2026!
 
-📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 12.88%
+📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 13.15%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Appalachiosaurus**
-> One of the few dinosaurs ever to be found in Alabama.
+> ### **Rubeosaurus**
+> A ceratopsian dinosaur from the Two Medicine Formation.
 
 ---
 
