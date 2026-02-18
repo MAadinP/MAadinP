@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **316 days** left in 2026!
+👉 **315 days** left in 2026!
 
-📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 13.15%
+📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 13.42%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Rubeosaurus**
-> A ceratopsian dinosaur from the Two Medicine Formation.
+> ### **Secernosaurus**
+> The first hadrosaur to be discovered in South America.
 
 ---
 
