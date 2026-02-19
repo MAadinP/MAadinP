@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **315 days** left in 2026!
+👉 **314 days** left in 2026!
 
-📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 13.42%
+📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 13.70%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Secernosaurus**
-> The first hadrosaur to be discovered in South America.
+> ### **Dysalotosaurus**
+> We know a lot about this dinosaur's growth stages.
 
 ---
 
