@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **314 days** left in 2026!
+👉 **313 days** left in 2026!
 
-📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 13.70%
+📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 13.97%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Dysalotosaurus**
-> We know a lot about this dinosaur's growth stages.
+> ### **Eodromaeus**
+> Yet another ancient theropod from South America.
 
 ---
 
