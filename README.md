@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **313 days** left in 2026!
+👉 **312 days** left in 2026!
 
-📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 13.97%
+📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 14.25%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Eodromaeus**
-> Yet another ancient theropod from South America.
+> ### **Yinlong**
+> This "hidden dragon" was an early ceratopsian.
 
 ---
 
