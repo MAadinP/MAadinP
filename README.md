@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **312 days** left in 2026!
+👉 **311 days** left in 2026!
 
-📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 14.25%
+📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 14.52%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Yinlong**
-> This "hidden dragon" was an early ceratopsian.
+> ### **Staurikosaurus**
+> Another primitive theropod of the Triassic period.
 
 ---
 
