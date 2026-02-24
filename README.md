@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **310 days** left in 2026!
+👉 **309 days** left in 2026!
 
-📅 Year Progress: ██░░░░░░░░░░░░░░░░░░ 14.79%
+📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 15.07%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Anodontosaurus**
-> This "toothless lizard" actually had a full set of choppers.
+> ### **Shamosaurus**
+> This Mongolian ankylosaur was a close relative of Gobisaurus.
 
 ---
 
