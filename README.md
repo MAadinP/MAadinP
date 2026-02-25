@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **309 days** left in 2026!
+👉 **308 days** left in 2026!
 
-📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 15.07%
+📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 15.34%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Shamosaurus**
-> This Mongolian ankylosaur was a close relative of Gobisaurus.
+> ### **Kileskus**
+> Yet another "basal" tyrannosaur from central Asia.
 
 ---
 
