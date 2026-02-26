@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **308 days** left in 2026!
+👉 **307 days** left in 2026!
 
-📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 15.34%
+📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 15.62%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Kileskus**
-> Yet another "basal" tyrannosaur from central Asia.
+> ### **Dilong**
+> This "emperor dragon" may have been an ancestor of T. Rex.
 
 ---
 
