@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **307 days** left in 2026!
+👉 **306 days** left in 2026!
 
-📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 15.62%
+📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 15.89%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Dilong**
-> This "emperor dragon" may have been an ancestor of T. Rex.
+> ### **Therizinosaurus**
+> What did Little Orphan Annie say to this dinosaur? "Reaping lizards!"
 
 ---
 
