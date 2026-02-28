@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **306 days** left in 2026!
+👉 **305 days** left in 2026!
 
-📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 15.89%
+📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 16.16%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Therizinosaurus**
-> What did Little Orphan Annie say to this dinosaur? "Reaping lizards!"
+> ### **Pegomastax**
+> This dinosaur was covered with porcupine-like bristles.
 
 ---
 
