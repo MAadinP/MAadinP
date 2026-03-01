@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **305 days** left in 2026!
+👉 **304 days** left in 2026!
 
-📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 16.16%
+📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 16.44%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Pegomastax**
-> This dinosaur was covered with porcupine-like bristles.
+> ### **Genyodectes**
+> This dinosaur is represented by an impressive set of teeth.
 
 ---
 
