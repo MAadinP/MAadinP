@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **304 days** left in 2026!
+👉 **303 days** left in 2026!
 
-📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 16.44%
+📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 16.71%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Genyodectes**
-> This dinosaur is represented by an impressive set of teeth.
+> ### **Rhabdodon**
+> A possible "missing link" between Iguanodon and Hypsilophodon.
 
 ---
 
