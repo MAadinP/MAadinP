@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **303 days** left in 2026!
+👉 **302 days** left in 2026!
 
-📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 16.71%
+📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 16.99%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Rhabdodon**
-> A possible "missing link" between Iguanodon and Hypsilophodon.
+> ### **Variraptor**
+> The first raptor ever to be discovered in France.
 
 ---
 
