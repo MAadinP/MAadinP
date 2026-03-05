@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **301 days** left in 2026!
+👉 **300 days** left in 2026!
 
-📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 17.26%
+📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 17.53%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Labocania**
-> It may or may not have been a true tyrannosaur.
+> ### **Diplodocus**
+> Thin at one end, much thicker in the middle, and thin again at the far end.
 
 ---
 
