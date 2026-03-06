@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **300 days** left in 2026!
+👉 **299 days** left in 2026!
 
-📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 17.53%
+📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 17.81%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Diplodocus**
-> Thin at one end, much thicker in the middle, and thin again at the far end.
+> ### **Acristavus**
+> This early hadrosaur lacked any ornamentation on its skull.
 
 ---
 
