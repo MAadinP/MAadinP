@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **299 days** left in 2026!
+👉 **298 days** left in 2026!
 
-📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 17.81%
+📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 18.08%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Acristavus**
-> This early hadrosaur lacked any ornamentation on its skull.
+> ### **Tataouinea**
+> No, this dinosaur wasn't named after Tatooine in Star Wars.
 
 ---
 
