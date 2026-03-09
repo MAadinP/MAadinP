@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **297 days** left in 2026!
+👉 **296 days** left in 2026!
 
-📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 18.36%
+📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 18.63%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Neuquensaurus**
-> Was this titanosaur really a species of Saltasaurus?
+> ### **Segisaurus**
+> An early dinosaur closely related to Coelophysis.
 
 ---
 
