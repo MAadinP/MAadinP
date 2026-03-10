@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **296 days** left in 2026!
+👉 **295 days** left in 2026!
 
-📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 18.63%
+📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 18.90%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Segisaurus**
-> An early dinosaur closely related to Coelophysis.
+> ### **Barilium**
+> Yet another iguanodontid ornithopod of the British Isles.
 
 ---
 
