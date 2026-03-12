@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **294 days** left in 2026!
+👉 **293 days** left in 2026!
 
-📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 19.18%
+📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 19.45%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Raptorex**
-> A pint-sized precursor of T. Rex.
+> ### **Laquintasaura**
+> The first plant-eating dinosaur ever to be discovered in Venezuela.
 
 ---
 
