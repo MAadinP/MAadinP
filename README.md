@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **292 days** left in 2026!
+👉 **291 days** left in 2026!
 
-📅 Year Progress: ███░░░░░░░░░░░░░░░░░ 19.73%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 20.00%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Ekrixinatosaurus**
-> Its name means "explosion-born lizard".
+> ### **Nothronychus**
+> The first therizonosaur to be found outside Asia.
 
 ---
 
