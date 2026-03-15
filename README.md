@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **291 days** left in 2026!
+👉 **290 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 20.00%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 20.27%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Nothronychus**
-> The first therizonosaur to be found outside Asia.
+> ### **Saichania**
+> This ankylosaur's name is Chinese for "beautiful".
 
 ---
 
