@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **289 days** left in 2026!
+👉 **288 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 20.55%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 20.82%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Miragaia**
-> This stegosaur had an unusually long neck.
+> ### **Lusotitan**
+> This sauropod was once classified as a species of Brachiosaurus.
 
 ---
 
