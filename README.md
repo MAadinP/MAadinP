@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **288 days** left in 2026!
+👉 **287 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 20.82%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 21.10%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Lusotitan**
-> This sauropod was once classified as a species of Brachiosaurus.
+> ### **Linheraptor**
+> This Mongolian raptor was discovered in 2008.
 
 ---
 
