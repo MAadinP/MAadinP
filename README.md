@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **287 days** left in 2026!
+👉 **286 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 21.10%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 21.37%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Linheraptor**
-> This Mongolian raptor was discovered in 2008.
+> ### **Eotriceratops**
+> This "dawn Triceratops" was recently discovered in Canada.
 
 ---
 
