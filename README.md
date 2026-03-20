@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **286 days** left in 2026!
+👉 **285 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 21.37%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 21.64%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Eotriceratops**
-> This "dawn Triceratops" was recently discovered in Canada.
+> ### **Lexovisaurus**
+> One of the oldest European stegosaurs.
 
 ---
 
