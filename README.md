@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **285 days** left in 2026!
+👉 **284 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 21.64%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 21.92%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Lexovisaurus**
-> One of the oldest European stegosaurs.
+> ### **Tyrannosaurus Rex**
+> The once—and always—king of the dinosaurs.
 
 ---
 
