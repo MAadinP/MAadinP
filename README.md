@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **284 days** left in 2026!
+👉 **283 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 21.92%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 22.19%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Tyrannosaurus Rex**
-> The once—and always—king of the dinosaurs.
+> ### **Piatnitzkysaurus**
+> Its teeth were as sharp as its name is funny.
 
 ---
 
