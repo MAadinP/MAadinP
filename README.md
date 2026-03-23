@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **283 days** left in 2026!
+👉 **282 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 22.19%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 22.47%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Piatnitzkysaurus**
-> Its teeth were as sharp as its name is funny.
+> ### **Stygimoloch**
+> Its name means "demon from the river of death." Got your attention yet?
 
 ---
 
