@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **282 days** left in 2026!
+👉 **281 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 22.47%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 22.74%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Stygimoloch**
-> Its name means "demon from the river of death." Got your attention yet?
+> ### **Bambiraptor**
+> Yes, this tiny raptor was named after you-know-who.
 
 ---
 
