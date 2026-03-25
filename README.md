@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **281 days** left in 2026!
+👉 **280 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 22.74%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 23.01%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Bambiraptor**
-> Yes, this tiny raptor was named after you-know-who.
+> ### **Tapuiasaurus**
+> A recently discovered titanosaur from South America.
 
 ---
 
