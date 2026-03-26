@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **280 days** left in 2026!
+👉 **279 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 23.01%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 23.29%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Tapuiasaurus**
-> A recently discovered titanosaur from South America.
+> ### **Gasparinisaura**
+> One of the few ornithopods known to have lived in South America.
 
 ---
 
