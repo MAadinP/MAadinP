@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **279 days** left in 2026!
+👉 **278 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 23.29%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 23.56%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Gasparinisaura**
-> One of the few ornithopods known to have lived in South America.
+> ### **Gobisaurus**
+> An unusually large ankylosaur of central Asia.
 
 ---
 
