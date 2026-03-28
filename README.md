@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **278 days** left in 2026!
+👉 **277 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 23.56%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 23.84%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Gobisaurus**
-> An unusually large ankylosaur of central Asia.
+> ### **Tangvayosaurus**
+> This Laotian titanosaur was closely related to Phuwiangosaurus.
 
 ---
 
