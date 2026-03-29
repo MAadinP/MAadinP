@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **277 days** left in 2026!
+👉 **276 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 23.84%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 24.11%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Tangvayosaurus**
-> This Laotian titanosaur was closely related to Phuwiangosaurus.
+> ### **Pachyrhinosaurus**
+> This "thick-nosed lizard" roamed the North American forests.
 
 ---
 
