@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **276 days** left in 2026!
+👉 **275 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 24.11%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 24.38%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Pachyrhinosaurus**
-> This "thick-nosed lizard" roamed the North American forests.
+> ### **Graciliraptor**
+> This tiny dino-bird was a close relative of Microraptor.
 
 ---
 
