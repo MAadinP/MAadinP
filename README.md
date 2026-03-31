@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **275 days** left in 2026!
+👉 **274 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 24.38%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 24.66%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Graciliraptor**
-> This tiny dino-bird was a close relative of Microraptor.
+> ### **Saurornitholestes**
+> A close cousin of Velociraptor.
 
 ---
 
