@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **274 days** left in 2026!
+👉 **273 days** left in 2026!
 
-📅 Year Progress: ████░░░░░░░░░░░░░░░░ 24.66%
+📅 Year Progress: ████░░░░░░░░░░░░░░░░ 24.93%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Saurornitholestes**
-> A close cousin of Velociraptor.
+> ### **Anodontosaurus**
+> This "toothless lizard" actually had a full set of choppers.
 
 ---
 
