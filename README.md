@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **272 days** left in 2026!
+👉 **271 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 25.21%
+📅 Year Progress: █████░░░░░░░░░░░░░░░ 25.48%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Diceratops**
-> Was this two-horned dinosaur really a specimen of Triceratops?
+> ### **Isanosaurus**
+> One of the first sauropods ever to walk the earth.
 
 ---
 
