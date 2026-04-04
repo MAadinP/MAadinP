@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **271 days** left in 2026!
+👉 **270 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 25.48%
+📅 Year Progress: █████░░░░░░░░░░░░░░░ 25.75%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Isanosaurus**
-> One of the first sauropods ever to walk the earth.
+> ### **Nanosaurus**
+> This "tiny lizard" was named by Othniel C. Marsh.
 
 ---
 
