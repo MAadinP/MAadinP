@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **270 days** left in 2026!
+👉 **269 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 25.75%
+📅 Year Progress: █████░░░░░░░░░░░░░░░ 26.03%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Nanosaurus**
-> This "tiny lizard" was named by Othniel C. Marsh.
+> ### **Indosuchus**
+> This "Indian crocodile" was actually a dinosaur.
 
 ---
 
