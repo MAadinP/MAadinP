@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **269 days** left in 2026!
+👉 **268 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 26.03%
+📅 Year Progress: █████░░░░░░░░░░░░░░░ 26.30%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Indosuchus**
-> This "Indian crocodile" was actually a dinosaur.
+> ### **Yandusaurus**
+> A small ornithopod of middle Jurassic China.
 
 ---
 
