@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **268 days** left in 2026!
+👉 **267 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 26.30%
+📅 Year Progress: █████░░░░░░░░░░░░░░░ 26.58%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Yandusaurus**
-> A small ornithopod of middle Jurassic China.
+> ### **Segisaurus**
+> An early dinosaur closely related to Coelophysis.
 
 ---
 
