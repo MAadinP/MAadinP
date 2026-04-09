@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **266 days** left in 2026!
+👉 **265 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 26.85%
+📅 Year Progress: █████░░░░░░░░░░░░░░░ 27.12%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Kentrosaurus**
-> A smaller, African cousin of Stegosaurus.
+> ### **Antarctosaurus**
+> This titanosaur may or may not have lived in Antarctica.
 
 ---
 
