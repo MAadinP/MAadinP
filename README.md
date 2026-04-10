@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **265 days** left in 2026!
+👉 **264 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 27.12%
+📅 Year Progress: █████░░░░░░░░░░░░░░░ 27.40%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Antarctosaurus**
-> This titanosaur may or may not have lived in Antarctica.
+> ### **Dystrophaeus**
+> This Diplodocus-like sauropod was named by Edward Cope.
 
 ---
 
