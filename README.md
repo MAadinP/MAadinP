@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **264 days** left in 2026!
+👉 **263 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 27.40%
+📅 Year Progress: █████░░░░░░░░░░░░░░░ 27.67%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Dystrophaeus**
-> This Diplodocus-like sauropod was named by Edward Cope.
+> ### **Asylosaurus**
+> This "unharmed lizard" escaped destruction in World War II.
 
 ---
 
