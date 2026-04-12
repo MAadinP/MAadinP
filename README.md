@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **263 days** left in 2026!
+👉 **262 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 27.67%
+📅 Year Progress: █████░░░░░░░░░░░░░░░ 27.95%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Asylosaurus**
-> This "unharmed lizard" escaped destruction in World War II.
+> ### **Unescoceratops**
+> Named after the United Nation's UNESCO.
 
 ---
 
