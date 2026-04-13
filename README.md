@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **262 days** left in 2026!
+👉 **261 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 27.95%
+📅 Year Progress: █████░░░░░░░░░░░░░░░ 28.22%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Unescoceratops**
-> Named after the United Nation's UNESCO.
+> ### **Graciliraptor**
+> This tiny dino-bird was a close relative of Microraptor.
 
 ---
 
