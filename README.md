@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **261 days** left in 2026!
+👉 **260 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 28.22%
+📅 Year Progress: █████░░░░░░░░░░░░░░░ 28.49%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Graciliraptor**
-> This tiny dino-bird was a close relative of Microraptor.
+> ### **Lycorhinus**
+> This dinosaur was once thought to be a mammal-like reptile.
 
 ---
 
