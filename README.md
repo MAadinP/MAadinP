@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **260 days** left in 2026!
+👉 **259 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 28.49%
+📅 Year Progress: █████░░░░░░░░░░░░░░░ 28.77%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Lycorhinus**
-> This dinosaur was once thought to be a mammal-like reptile.
+> ### **Mochlodon**
+> One of the few dinosaurs ever to be discovered in Austria.
 
 ---
 
