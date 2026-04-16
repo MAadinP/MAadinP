@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **259 days** left in 2026!
+👉 **258 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 28.77%
+📅 Year Progress: █████░░░░░░░░░░░░░░░ 29.04%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Mochlodon**
-> One of the few dinosaurs ever to be discovered in Austria.
+> ### **Carcharodontosaurus**
+> Its name means "great white shark lizard." Impressed yet?
 
 ---
 
