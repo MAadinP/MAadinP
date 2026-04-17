@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **258 days** left in 2026!
+👉 **257 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 29.04%
+📅 Year Progress: █████░░░░░░░░░░░░░░░ 29.32%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Carcharodontosaurus**
-> Its name means "great white shark lizard." Impressed yet?
+> ### **Tuojiangosaurus**
+> One of the most well-known Chinese stegosaurs.
 
 ---
 
