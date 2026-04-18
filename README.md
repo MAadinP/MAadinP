@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **257 days** left in 2026!
+👉 **256 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 29.32%
+📅 Year Progress: █████░░░░░░░░░░░░░░░ 29.59%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Tuojiangosaurus**
-> One of the most well-known Chinese stegosaurs.
+> ### **Abrictosaurus**
+> An early relative of Heterodontosaurus.
 
 ---
 
