@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **256 days** left in 2026!
+👉 **255 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 29.59%
+📅 Year Progress: █████░░░░░░░░░░░░░░░ 29.86%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Abrictosaurus**
-> An early relative of Heterodontosaurus.
+> ### **Pelorosaurus**
+> The first sauropod ever to be discovered.
 
 ---
 
