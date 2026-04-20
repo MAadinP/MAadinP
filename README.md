@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **255 days** left in 2026!
+👉 **254 days** left in 2026!
 
-📅 Year Progress: █████░░░░░░░░░░░░░░░ 29.86%
+📅 Year Progress: ██████░░░░░░░░░░░░░░ 30.14%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Pelorosaurus**
-> The first sauropod ever to be discovered.
+> ### **Hungarosaurus**
+> The best-attested ankylosaur ever discovered in Europe.
 
 ---
 
