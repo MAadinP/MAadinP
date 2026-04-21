@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **254 days** left in 2026!
+👉 **253 days** left in 2026!
 
-📅 Year Progress: ██████░░░░░░░░░░░░░░ 30.14%
+📅 Year Progress: ██████░░░░░░░░░░░░░░ 30.41%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Hungarosaurus**
-> The best-attested ankylosaur ever discovered in Europe.
+> ### **Agilisaurus**
+> This "agile lizard" was one of the earliest ornithopods.
 
 ---
 
