@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **253 days** left in 2026!
+👉 **252 days** left in 2026!
 
-📅 Year Progress: ██████░░░░░░░░░░░░░░ 30.41%
+📅 Year Progress: ██████░░░░░░░░░░░░░░ 30.68%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Agilisaurus**
-> This "agile lizard" was one of the earliest ornithopods.
+> ### **Yi Qi**
+> This strange Jurassic dinosaur had bat-like wings.
 
 ---
 
