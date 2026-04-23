@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **252 days** left in 2026!
+👉 **251 days** left in 2026!
 
-📅 Year Progress: ██████░░░░░░░░░░░░░░ 30.68%
+📅 Year Progress: ██████░░░░░░░░░░░░░░ 30.96%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Yi Qi**
-> This strange Jurassic dinosaur had bat-like wings.
+> ### **Conchoraptor**
+> This "conch thief" may have lunched on mollusks.
 
 ---
 
