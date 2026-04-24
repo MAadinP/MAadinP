@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **251 days** left in 2026!
+👉 **250 days** left in 2026!
 
-📅 Year Progress: ██████░░░░░░░░░░░░░░ 30.96%
+📅 Year Progress: ██████░░░░░░░░░░░░░░ 31.23%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Conchoraptor**
-> This "conch thief" may have lunched on mollusks.
+> ### **Kaijiangosaurus**
+> This might have been the same dinosaur as Gasosaurus.
 
 ---
 
