@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **250 days** left in 2026!
+👉 **249 days** left in 2026!
 
-📅 Year Progress: ██████░░░░░░░░░░░░░░ 31.23%
+📅 Year Progress: ██████░░░░░░░░░░░░░░ 31.51%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Kaijiangosaurus**
-> This might have been the same dinosaur as Gasosaurus.
+> ### **Aorun**
+> A small theropod of late Jurassic Asia.
 
 ---
 
