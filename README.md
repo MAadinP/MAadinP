@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **248 days** left in 2026!
+👉 **247 days** left in 2026!
 
-📅 Year Progress: ██████░░░░░░░░░░░░░░ 31.78%
+📅 Year Progress: ██████░░░░░░░░░░░░░░ 32.05%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Epidendrosaurus**
-> Did this tiny dino-bird spend its life up a tree?
+> ### **Nyasasaurus**
+> Could this be the earliest dinosaur in the fossil record?
 
 ---
 
