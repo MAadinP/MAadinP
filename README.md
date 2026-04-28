@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **247 days** left in 2026!
+👉 **246 days** left in 2026!
 
-📅 Year Progress: ██████░░░░░░░░░░░░░░ 32.05%
+📅 Year Progress: ██████░░░░░░░░░░░░░░ 32.33%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Nyasasaurus**
-> Could this be the earliest dinosaur in the fossil record?
+> ### **Coahuilaceratops**
+> It had the longest horns of any known ceratopsian dinosaur.
 
 ---
 
