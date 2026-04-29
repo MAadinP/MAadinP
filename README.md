@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **246 days** left in 2026!
+👉 **245 days** left in 2026!
 
-📅 Year Progress: ██████░░░░░░░░░░░░░░ 32.33%
+📅 Year Progress: ██████░░░░░░░░░░░░░░ 32.60%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Coahuilaceratops**
-> It had the longest horns of any known ceratopsian dinosaur.
+> ### **Triceratops**
+> The famous, three-horned, plant-eating dinosaur.
 
 ---
 
