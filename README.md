@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **244 days** left in 2026!
+👉 **243 days** left in 2026!
 
-📅 Year Progress: ██████░░░░░░░░░░░░░░ 32.88%
+📅 Year Progress: ██████░░░░░░░░░░░░░░ 33.15%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Triceratops**
-> The famous, three-horned, plant-eating dinosaur.
+> ### **Colepiocephale**
+> This thick-skulled dinosaur's name is Greek for "knucklehead".
 
 ---
 
