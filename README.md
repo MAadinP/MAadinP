@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **243 days** left in 2026!
+👉 **242 days** left in 2026!
 
-📅 Year Progress: ██████░░░░░░░░░░░░░░ 33.15%
+📅 Year Progress: ██████░░░░░░░░░░░░░░ 33.42%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Colepiocephale**
-> This thick-skulled dinosaur's name is Greek for "knucklehead".
+> ### **Garudimimus**
+> A relative slowpoke compared to other ornithomimids.
 
 ---
 
