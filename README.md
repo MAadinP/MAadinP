@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **241 days** left in 2026!
+👉 **240 days** left in 2026!
 
-📅 Year Progress: ██████░░░░░░░░░░░░░░ 33.70%
+📅 Year Progress: ██████░░░░░░░░░░░░░░ 33.97%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Timimus**
-> The only ornithomimid ever discovered in Australia.
+> ### **Ignavusaurus**
+> Its name means "cowardly lizard".
 
 ---
 
