@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **240 days** left in 2026!
+👉 **239 days** left in 2026!
 
-📅 Year Progress: ██████░░░░░░░░░░░░░░ 33.97%
+📅 Year Progress: ██████░░░░░░░░░░░░░░ 34.25%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Ignavusaurus**
-> Its name means "cowardly lizard".
+> ### **Tastavinsaurus**
+> This titanosaur was discovered in Spain.
 
 ---
 
