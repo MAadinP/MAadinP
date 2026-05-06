@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **239 days** left in 2026!
+👉 **238 days** left in 2026!
 
-📅 Year Progress: ██████░░░░░░░░░░░░░░ 34.25%
+📅 Year Progress: ██████░░░░░░░░░░░░░░ 34.52%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Tastavinsaurus**
-> This titanosaur was discovered in Spain.
+> ### **Cerasinops**
+> A small ceratopsian of the late Cretaceous.
 
 ---
 
