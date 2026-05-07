@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **238 days** left in 2026!
+👉 **237 days** left in 2026!
 
-📅 Year Progress: ██████░░░░░░░░░░░░░░ 34.52%
+📅 Year Progress: ██████░░░░░░░░░░░░░░ 34.79%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Cerasinops**
-> A small ceratopsian of the late Cretaceous.
+> ### **Tataouinea**
+> No, this dinosaur wasn't named after Tatooine in Star Wars.
 
 ---
 
