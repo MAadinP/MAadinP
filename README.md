@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **237 days** left in 2026!
+👉 **236 days** left in 2026!
 
-📅 Year Progress: ██████░░░░░░░░░░░░░░ 34.79%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 35.07%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Tataouinea**
-> No, this dinosaur wasn't named after Tatooine in Star Wars.
+> ### **Euhelopus**
+> The first sauropod to be discovered in China.
 
 ---
 
