@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **236 days** left in 2026!
+👉 **235 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 35.07%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 35.34%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Euhelopus**
-> The first sauropod to be discovered in China.
+> ### **Elmisaurus**
+> This "foot lizard" was a close relative of Oviraptor.
 
 ---
 
