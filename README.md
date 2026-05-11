@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **234 days** left in 2026!
+👉 **233 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 35.62%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 35.89%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Shenzhousaurus**
-> A small, primitive ornithomimid from China.
+> ### **Animantarx**
+> This "living fortress" was discovered in an unusual way.
 
 ---
 
