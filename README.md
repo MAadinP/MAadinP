@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **233 days** left in 2026!
+👉 **232 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 35.89%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 36.16%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Animantarx**
-> This "living fortress" was discovered in an unusual way.
+> ### **Lanzhousaurus**
+> This herbivore's teeth were half a foot long.
 
 ---
 
