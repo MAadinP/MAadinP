@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **232 days** left in 2026!
+👉 **231 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 36.16%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 36.44%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Lanzhousaurus**
-> This herbivore's teeth were half a foot long.
+> ### **Yamaceratops**
+> No, it didn't have a sweet potato for a head.
 
 ---
 
