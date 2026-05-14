@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **231 days** left in 2026!
+👉 **230 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 36.44%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 36.71%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Yamaceratops**
-> No, it didn't have a sweet potato for a head.
+> ### **Pedopenna**
+> One of the earliest known dino-birds.
 
 ---
 
