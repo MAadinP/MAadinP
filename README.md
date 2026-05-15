@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **230 days** left in 2026!
+👉 **229 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 36.71%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 36.99%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Pedopenna**
-> One of the earliest known dino-birds.
+> ### **Ekrixinatosaurus**
+> Its name means "explosion-born lizard".
 
 ---
 
