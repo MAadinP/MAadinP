@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **229 days** left in 2026!
+👉 **228 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 36.99%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 37.26%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Ekrixinatosaurus**
-> Its name means "explosion-born lizard".
+> ### **Wannanosaurus**
+> Probably the smallest of all the bone-headed dinosaurs.
 
 ---
 
