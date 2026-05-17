@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **228 days** left in 2026!
+👉 **227 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 37.26%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 37.53%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Wannanosaurus**
-> Probably the smallest of all the bone-headed dinosaurs.
+> ### **Siamodon**
+> This ornithopod was recently discovered in Thailand.
 
 ---
 
