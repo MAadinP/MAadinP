@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **227 days** left in 2026!
+👉 **226 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 37.53%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 37.81%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Siamodon**
-> This ornithopod was recently discovered in Thailand.
+> ### **Euhelopus**
+> The first sauropod to be discovered in China.
 
 ---
 
