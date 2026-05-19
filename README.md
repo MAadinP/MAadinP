@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **226 days** left in 2026!
+👉 **225 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 37.81%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 38.08%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Euhelopus**
-> The first sauropod to be discovered in China.
+> ### **Mirischia**
+> Its name means "wonderful pelvis".
 
 ---
 
