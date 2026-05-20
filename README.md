@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **225 days** left in 2026!
+👉 **224 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 38.08%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 38.36%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Mirischia**
-> Its name means "wonderful pelvis".
+> ### **Jaxartosaurus**
+> A poorly known hadrosaur from central Asia.
 
 ---
 
