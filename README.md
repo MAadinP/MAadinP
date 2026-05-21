@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **224 days** left in 2026!
+👉 **223 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 38.36%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 38.63%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Jaxartosaurus**
-> A poorly known hadrosaur from central Asia.
+> ### **Unaysaurus**
+> One of the oldest prosauropods yet discovered.
 
 ---
 
