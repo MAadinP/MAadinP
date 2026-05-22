@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **223 days** left in 2026!
+👉 **222 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 38.63%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 38.90%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Unaysaurus**
-> One of the oldest prosauropods yet discovered.
+> ### **Richardoestesia**
+> Named after the paleontologist Richard Estes.
 
 ---
 
