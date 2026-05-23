@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **222 days** left in 2026!
+👉 **221 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 38.90%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 39.18%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Richardoestesia**
-> Named after the paleontologist Richard Estes.
+> ### **Fabrosaurus**
+> This early ornithopod may have been a species of Lesothosaurus.
 
 ---
 
