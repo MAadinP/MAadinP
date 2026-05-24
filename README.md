@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **221 days** left in 2026!
+👉 **220 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 39.18%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 39.45%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Fabrosaurus**
-> This early ornithopod may have been a species of Lesothosaurus.
+> ### **Mononykus**
+> This dinosaur may have dug into termite mounds for its lunch.
 
 ---
 
