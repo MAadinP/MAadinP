@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **220 days** left in 2026!
+👉 **219 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 39.45%
+📅 Year Progress: ███████░░░░░░░░░░░░░ 39.73%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Mononykus**
-> This dinosaur may have dug into termite mounds for its lunch.
+> ### **Variraptor**
+> The first raptor ever to be discovered in France.
 
 ---
 
