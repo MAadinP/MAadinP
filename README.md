@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **219 days** left in 2026!
+👉 **218 days** left in 2026!
 
-📅 Year Progress: ███████░░░░░░░░░░░░░ 39.73%
+📅 Year Progress: ████████░░░░░░░░░░░░ 40.00%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Variraptor**
-> The first raptor ever to be discovered in France.
+> ### **Shantungosaurus**
+> The biggest of all the duck-billed dinosaurs.
 
 ---
 
