@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **218 days** left in 2026!
+👉 **217 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 40.00%
+📅 Year Progress: ████████░░░░░░░░░░░░ 40.27%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Shantungosaurus**
-> The biggest of all the duck-billed dinosaurs.
+> ### **Cetiosaurus**
+> This "whale lizard" was once mistaken for the Loch Ness Monster.
 
 ---
 
