@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **217 days** left in 2026!
+👉 **216 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 40.27%
+📅 Year Progress: ████████░░░░░░░░░░░░ 40.55%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Cetiosaurus**
-> This "whale lizard" was once mistaken for the Loch Ness Monster.
+> ### **Datousaurus**
+> A medium-sized sauropod from middle Jurassic Asia.
 
 ---
 
