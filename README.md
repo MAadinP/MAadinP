@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **216 days** left in 2026!
+👉 **215 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 40.55%
+📅 Year Progress: ████████░░░░░░░░░░░░ 40.82%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Datousaurus**
-> A medium-sized sauropod from middle Jurassic Asia.
+> ### **Othnielosaurus**
+> Also named after the famous paleontologist Othniel C. Marsh.
 
 ---
 
