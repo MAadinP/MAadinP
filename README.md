@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **215 days** left in 2026!
+👉 **214 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 40.82%
+📅 Year Progress: ████████░░░░░░░░░░░░ 41.10%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Othnielosaurus**
-> Also named after the famous paleontologist Othniel C. Marsh.
+> ### **Tianzhenosaurus**
+> This ankylosaur's skull has been spectacularly preserved.
 
 ---
 
