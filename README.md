@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **213 days** left in 2026!
+👉 **212 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 41.37%
+📅 Year Progress: ████████░░░░░░░░░░░░ 41.64%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Pelorosaurus**
-> The first sauropod ever to be discovered.
+> ### **Nothronychus**
+> The first therizonosaur to be found outside Asia.
 
 ---
 
