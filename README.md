@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **212 days** left in 2026!
+👉 **211 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 41.64%
+📅 Year Progress: ████████░░░░░░░░░░░░ 41.92%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Nothronychus**
-> The first therizonosaur to be found outside Asia.
+> ### **Similicaudipteryx**
+> The juveniles may have been differently feathered than the adults.
 
 ---
 
