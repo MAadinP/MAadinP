@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **211 days** left in 2026!
+👉 **210 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 41.92%
+📅 Year Progress: ████████░░░░░░░░░░░░ 42.19%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Similicaudipteryx**
-> The juveniles may have been differently feathered than the adults.
+> ### **Dystrophaeus**
+> This Diplodocus-like sauropod was named by Edward Cope.
 
 ---
 
