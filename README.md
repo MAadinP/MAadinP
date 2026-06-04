@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **210 days** left in 2026!
+👉 **209 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 42.19%
+📅 Year Progress: ████████░░░░░░░░░░░░ 42.47%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Dystrophaeus**
-> This Diplodocus-like sauropod was named by Edward Cope.
+> ### **Erectopus**
+> This "upright-footed" dinosaur is a 19th-century enigma.
 
 ---
 
