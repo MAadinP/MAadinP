@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **209 days** left in 2026!
+👉 **208 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 42.47%
+📅 Year Progress: ████████░░░░░░░░░░░░ 42.74%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Erectopus**
-> This "upright-footed" dinosaur is a 19th-century enigma.
+> ### **Bruhathkayosaurus**
+> Was this titanosaur bigger than Argentinosaurus?
 
 ---
 
