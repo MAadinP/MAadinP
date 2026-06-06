@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **208 days** left in 2026!
+👉 **207 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 42.74%
+📅 Year Progress: ████████░░░░░░░░░░░░ 43.01%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Bruhathkayosaurus**
-> Was this titanosaur bigger than Argentinosaurus?
+> ### **Dracopelta**
+> This early ankylosaur was discovered in Portugal.
 
 ---
 
