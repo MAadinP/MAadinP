@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **207 days** left in 2026!
+👉 **206 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 43.01%
+📅 Year Progress: ████████░░░░░░░░░░░░ 43.29%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Dracopelta**
-> This early ankylosaur was discovered in Portugal.
+> ### **Nankangia**
+> A recently discovered oviraptor from China.
 
 ---
 
