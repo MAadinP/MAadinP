@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **206 days** left in 2026!
+👉 **205 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 43.29%
+📅 Year Progress: ████████░░░░░░░░░░░░ 43.56%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Nankangia**
-> A recently discovered oviraptor from China.
+> ### **Miragaia**
+> This stegosaur had an unusually long neck.
 
 ---
 
