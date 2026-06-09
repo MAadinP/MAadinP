@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **205 days** left in 2026!
+👉 **204 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 43.56%
+📅 Year Progress: ████████░░░░░░░░░░░░ 43.84%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Miragaia**
-> This stegosaur had an unusually long neck.
+> ### **Alxasaurus**
+> An early relative of the bizarre Therizinosaurus.
 
 ---
 
