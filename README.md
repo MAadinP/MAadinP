@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **204 days** left in 2026!
+👉 **203 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 43.84%
+📅 Year Progress: ████████░░░░░░░░░░░░ 44.11%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Alxasaurus**
-> An early relative of the bizarre Therizinosaurus.
+> ### **Irritator**
+> This spinosaur was named by a very frustrated paleontologist.
 
 ---
 
