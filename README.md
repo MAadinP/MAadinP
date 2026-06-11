@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **203 days** left in 2026!
+👉 **202 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 44.11%
+📅 Year Progress: ████████░░░░░░░░░░░░ 44.38%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Irritator**
-> This spinosaur was named by a very frustrated paleontologist.
+> ### **Condorraptor**
+> A small theropod of middle Jurassic South America.
 
 ---
 
