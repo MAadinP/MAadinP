@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **202 days** left in 2026!
+👉 **201 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 44.38%
+📅 Year Progress: ████████░░░░░░░░░░░░ 44.66%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Condorraptor**
-> A small theropod of middle Jurassic South America.
+> ### **Isisaurus**
+> Otherwise known as the Indian Statistical Institute Lizard.
 
 ---
 
