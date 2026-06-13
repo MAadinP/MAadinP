@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **201 days** left in 2026!
+👉 **200 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 44.66%
+📅 Year Progress: ████████░░░░░░░░░░░░ 44.93%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Isisaurus**
-> Otherwise known as the Indian Statistical Institute Lizard.
+> ### **Overosaurus**
+> This dwarf titanosaur was announced to the world in 2013.
 
 ---
 
