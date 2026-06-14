@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **200 days** left in 2026!
+👉 **199 days** left in 2026!
 
-📅 Year Progress: ████████░░░░░░░░░░░░ 44.93%
+📅 Year Progress: █████████░░░░░░░░░░░ 45.21%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Overosaurus**
-> This dwarf titanosaur was announced to the world in 2013.
+> ### **Texacephale**
+> This Texan pachycephalosaur was named in 2010.
 
 ---
 
