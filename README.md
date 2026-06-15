@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **199 days** left in 2026!
+👉 **198 days** left in 2026!
 
-📅 Year Progress: █████████░░░░░░░░░░░ 45.21%
+📅 Year Progress: █████████░░░░░░░░░░░ 45.48%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Texacephale**
-> This Texan pachycephalosaur was named in 2010.
+> ### **Carnotaurus**
+> The shortest arms of any meat-eating dinosaur with horns to match.
 
 ---
 
