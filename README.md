@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **198 days** left in 2026!
+👉 **197 days** left in 2026!
 
-📅 Year Progress: █████████░░░░░░░░░░░ 45.48%
+📅 Year Progress: █████████░░░░░░░░░░░ 45.75%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Carnotaurus**
-> The shortest arms of any meat-eating dinosaur with horns to match.
+> ### **Europelta**
+> This early nodosaur was recently discovered in Spain.
 
 ---
 
