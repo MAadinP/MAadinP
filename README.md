@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **196 days** left in 2026!
+👉 **195 days** left in 2026!
 
-📅 Year Progress: █████████░░░░░░░░░░░ 46.03%
+📅 Year Progress: █████████░░░░░░░░░░░ 46.30%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Coelurus**
-> This tiny dinosaur was a close relative of Compsognathus.
+> ### **Skorpiovenator**
+> This "scorpion hunter" really ate meat.
 
 ---
 
