@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **195 days** left in 2026!
+👉 **194 days** left in 2026!
 
-📅 Year Progress: █████████░░░░░░░░░░░ 46.30%
+📅 Year Progress: █████████░░░░░░░░░░░ 46.58%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Skorpiovenator**
-> This "scorpion hunter" really ate meat.
+> ### **Unknown Dino**
+> Could not fetch dinosaur data
 
 ---
 
