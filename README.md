@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **194 days** left in 2026!
+👉 **193 days** left in 2026!
 
-📅 Year Progress: █████████░░░░░░░░░░░ 46.58%
+📅 Year Progress: █████████░░░░░░░░░░░ 46.85%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Unknown Dino**
-> Could not fetch dinosaur data
+> ### **Leaellynasaura**
+> One of the few dinosaurs to be named after a little girl.
 
 ---
 
