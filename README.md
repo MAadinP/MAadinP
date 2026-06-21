@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **193 days** left in 2026!
+👉 **192 days** left in 2026!
 
-📅 Year Progress: █████████░░░░░░░░░░░ 46.85%
+📅 Year Progress: █████████░░░░░░░░░░░ 47.12%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Leaellynasaura**
-> One of the few dinosaurs to be named after a little girl.
+> ### **Nothronychus**
+> The first therizonosaur to be found outside Asia.
 
 ---
 
