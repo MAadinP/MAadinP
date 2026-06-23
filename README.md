@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **191 days** left in 2026!
+👉 **190 days** left in 2026!
 
-📅 Year Progress: █████████░░░░░░░░░░░ 47.40%
+📅 Year Progress: █████████░░░░░░░░░░░ 47.67%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Khaan**
-> Few small mammals dared face the wrath of this dinosaur.
+> ### **Lourinhasaurus**
+> Not to be confused with Lourinhanosaurus, above.
 
 ---
 
