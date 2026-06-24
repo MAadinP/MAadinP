@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **190 days** left in 2026!
+👉 **189 days** left in 2026!
 
-📅 Year Progress: █████████░░░░░░░░░░░ 47.67%
+📅 Year Progress: █████████░░░░░░░░░░░ 47.95%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Lourinhasaurus**
-> Not to be confused with Lourinhanosaurus, above.
+> ### **Utahceratops**
+> Guess what state this dinosaur was discovered in.
 
 ---
 
