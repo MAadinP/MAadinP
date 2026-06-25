@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **189 days** left in 2026!
+👉 **188 days** left in 2026!
 
-📅 Year Progress: █████████░░░░░░░░░░░ 47.95%
+📅 Year Progress: █████████░░░░░░░░░░░ 48.22%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Utahceratops**
-> Guess what state this dinosaur was discovered in.
+> ### **Sarahsaurus**
+> This prosauropod had unusually strong hands.
 
 ---
 
