@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **188 days** left in 2026!
+👉 **187 days** left in 2026!
 
-📅 Year Progress: █████████░░░░░░░░░░░ 48.22%
+📅 Year Progress: █████████░░░░░░░░░░░ 48.49%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Sarahsaurus**
-> This prosauropod had unusually strong hands.
+> ### **Gallimimus**
+> This "chicken mimic" roamed the plains of the late Cretaceous.
 
 ---
 
