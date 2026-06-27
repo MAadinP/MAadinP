@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **187 days** left in 2026!
+👉 **186 days** left in 2026!
 
-📅 Year Progress: █████████░░░░░░░░░░░ 48.49%
+📅 Year Progress: █████████░░░░░░░░░░░ 48.77%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Gallimimus**
-> This "chicken mimic" roamed the plains of the late Cretaceous.
+> ### **Vagaceratops**
+> This big-frilled dinosaur was closely related to Kosmoceratops.
 
 ---
 
