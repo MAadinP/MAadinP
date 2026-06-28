@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **186 days** left in 2026!
+👉 **185 days** left in 2026!
 
-📅 Year Progress: █████████░░░░░░░░░░░ 48.77%
+📅 Year Progress: █████████░░░░░░░░░░░ 49.04%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Vagaceratops**
-> This big-frilled dinosaur was closely related to Kosmoceratops.
+> ### **Heterodontosaurus**
+> This "different-toothed" dinosaur was a dentist's nightmare.
 
 ---
 
