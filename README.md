@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **185 days** left in 2026!
+👉 **184 days** left in 2026!
 
-📅 Year Progress: █████████░░░░░░░░░░░ 49.04%
+📅 Year Progress: █████████░░░░░░░░░░░ 49.32%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Heterodontosaurus**
-> This "different-toothed" dinosaur was a dentist's nightmare.
+> ### **Daemonosauru 0s**
+> This "evil lizard" was a close relative of Coelophysis.
 
 ---
 
