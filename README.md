@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **184 days** left in 2026!
+👉 **183 days** left in 2026!
 
-📅 Year Progress: █████████░░░░░░░░░░░ 49.32%
+📅 Year Progress: █████████░░░░░░░░░░░ 49.59%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Daemonosauru 0s**
-> This "evil lizard" was a close relative of Coelophysis.
+> ### **Oohkotokia**
+> Its name is Blackfoot for "large stone".
 
 ---
 
