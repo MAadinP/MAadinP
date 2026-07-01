@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **183 days** left in 2026!
+👉 **182 days** left in 2026!
 
-📅 Year Progress: █████████░░░░░░░░░░░ 49.59%
+📅 Year Progress: █████████░░░░░░░░░░░ 49.86%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Oohkotokia**
-> Its name is Blackfoot for "large stone".
+> ### **Albertosaurus**
+> This carnivorous dinosaur was a close relative of T. Rex.
 
 ---
 
