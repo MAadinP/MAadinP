@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **181 days** left in 2026!
+👉 **180 days** left in 2026!
 
-📅 Year Progress: ██████████░░░░░░░░░░ 50.14%
+📅 Year Progress: ██████████░░░░░░░░░░ 50.41%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Aeolosaurus**
-> Could this titanosaur have reared up on its hind legs?
+> ### **Acanthopholis**
+> No, it's not a city in Greece.
 
 ---
 
