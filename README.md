@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **180 days** left in 2026!
+👉 **179 days** left in 2026!
 
-📅 Year Progress: ██████████░░░░░░░░░░ 50.41%
+📅 Year Progress: ██████████░░░░░░░░░░ 50.68%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Acanthopholis**
-> No, it's not a city in Greece.
+> ### **Incisivosaurus**
+> This buck-toothed dinosaur was the Cretaceous equivalent of a beaver.
 
 ---
 
