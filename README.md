@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **179 days** left in 2026!
+👉 **178 days** left in 2026!
 
-📅 Year Progress: ██████████░░░░░░░░░░ 50.68%
+📅 Year Progress: ██████████░░░░░░░░░░ 50.96%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Incisivosaurus**
-> This buck-toothed dinosaur was the Cretaceous equivalent of a beaver.
+> ### **Lurdusaurus**
+> This ornithopod resembled a giant sloth.
 
 ---
 
