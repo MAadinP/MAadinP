@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **178 days** left in 2026!
+👉 **177 days** left in 2026!
 
-📅 Year Progress: ██████████░░░░░░░░░░ 50.96%
+📅 Year Progress: ██████████░░░░░░░░░░ 51.23%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Lurdusaurus**
-> This ornithopod resembled a giant sloth.
+> ### **Leshansaurus**
+> Did this meat-eater feast on small, armored dinosaurs?
 
 ---
 
