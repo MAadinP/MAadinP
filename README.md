@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **176 days** left in 2026!
+👉 **175 days** left in 2026!
 
-📅 Year Progress: ██████████░░░░░░░░░░ 51.51%
+📅 Year Progress: ██████████░░░░░░░░░░ 51.78%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Kotasaurus**
-> One of the few sauropods to be discovered in India.
+> ### **Dimetrodon**
+> This ancient synapsid had a huge sail on its back.
 
 ---
 
