@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **175 days** left in 2026!
+👉 **174 days** left in 2026!
 
-📅 Year Progress: ██████████░░░░░░░░░░ 51.78%
+📅 Year Progress: ██████████░░░░░░░░░░ 52.05%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Dimetrodon**
-> This ancient synapsid had a huge sail on its back.
+> ### **Hagryphus**
+> The largest North American oviraptor yet discovered.
 
 ---
 
