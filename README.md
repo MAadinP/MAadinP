@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **174 days** left in 2026!
+👉 **173 days** left in 2026!
 
-📅 Year Progress: ██████████░░░░░░░░░░ 52.05%
+📅 Year Progress: ██████████░░░░░░░░░░ 52.33%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Hagryphus**
-> The largest North American oviraptor yet discovered.
+> ### **Xiongguanlong**
+> A small, primitive tyrannosaur from Asia.
 
 ---
 
