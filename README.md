@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **173 days** left in 2026!
+👉 **172 days** left in 2026!
 
-📅 Year Progress: ██████████░░░░░░░░░░ 52.33%
+📅 Year Progress: ██████████░░░░░░░░░░ 52.60%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Xiongguanlong**
-> A small, primitive tyrannosaur from Asia.
+> ### **Unknown Dino**
+> Could not fetch dinosaur data
 
 ---
 
