@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **171 days** left in 2026!
+👉 **170 days** left in 2026!
 
-📅 Year Progress: ██████████░░░░░░░░░░ 52.88%
+📅 Year Progress: ██████████░░░░░░░░░░ 53.15%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Unknown Dino**
-> Could not fetch dinosaur data
+> ### **Saltasaurus**
+> The first armored sauropod ever to be discovered.
 
 ---
 
