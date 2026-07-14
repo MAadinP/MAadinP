@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **170 days** left in 2026!
+👉 **169 days** left in 2026!
 
-📅 Year Progress: ██████████░░░░░░░░░░ 53.15%
+📅 Year Progress: ██████████░░░░░░░░░░ 53.42%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Saltasaurus**
-> The first armored sauropod ever to be discovered.
+> ### **Lurdusaurus**
+> This ornithopod resembled a giant sloth.
 
 ---
 
