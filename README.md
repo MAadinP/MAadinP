@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **169 days** left in 2026!
+👉 **168 days** left in 2026!
 
-📅 Year Progress: ██████████░░░░░░░░░░ 53.42%
+📅 Year Progress: ██████████░░░░░░░░░░ 53.70%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Lurdusaurus**
-> This ornithopod resembled a giant sloth.
+> ### **Angolatitan**
+> The first dinosaur ever to be discovered in Angola.
 
 ---
 
