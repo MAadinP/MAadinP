@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **168 days** left in 2026!
+👉 **167 days** left in 2026!
 
-📅 Year Progress: ██████████░░░░░░░░░░ 53.70%
+📅 Year Progress: ██████████░░░░░░░░░░ 53.97%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Angolatitan**
-> The first dinosaur ever to be discovered in Angola.
+> ### **Yutyrannus**
+> The largest feathered tyrannosaur yet identified.
 
 ---
 
