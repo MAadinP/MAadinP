@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **167 days** left in 2026!
+👉 **166 days** left in 2026!
 
-📅 Year Progress: ██████████░░░░░░░░░░ 53.97%
+📅 Year Progress: ██████████░░░░░░░░░░ 54.25%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Yutyrannus**
-> The largest feathered tyrannosaur yet identified.
+> ### **Siamosaurus**
+> This may (or may not) have been a spinosaur from Thailand.
 
 ---
 
