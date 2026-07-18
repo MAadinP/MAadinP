@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **166 days** left in 2026!
+👉 **165 days** left in 2026!
 
-📅 Year Progress: ██████████░░░░░░░░░░ 54.25%
+📅 Year Progress: ██████████░░░░░░░░░░ 54.52%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Siamosaurus**
-> This may (or may not) have been a spinosaur from Thailand.
+> ### **Magyarosaurus**
+> This dwarf titanosaur was probably confined to a small island.
 
 ---
 
