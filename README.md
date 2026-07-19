@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **165 days** left in 2026!
+👉 **164 days** left in 2026!
 
-📅 Year Progress: ██████████░░░░░░░░░░ 54.52%
+📅 Year Progress: ██████████░░░░░░░░░░ 54.79%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Magyarosaurus**
-> This dwarf titanosaur was probably confined to a small island.
+> ### **Hongshanosaurus**
+> This early ceratopsian is known by two skulls.
 
 ---
 
