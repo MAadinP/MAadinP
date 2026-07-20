@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **164 days** left in 2026!
+👉 **163 days** left in 2026!
 
-📅 Year Progress: ██████████░░░░░░░░░░ 54.79%
+📅 Year Progress: ███████████░░░░░░░░░ 55.07%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Hongshanosaurus**
-> This early ceratopsian is known by two skulls.
+> ### **Dollodon**
+> Named after the Belgian paleontologist Louis Dollo.
 
 ---
 
