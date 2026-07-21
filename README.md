@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **163 days** left in 2026!
+👉 **162 days** left in 2026!
 
-📅 Year Progress: ███████████░░░░░░░░░ 55.07%
+📅 Year Progress: ███████████░░░░░░░░░ 55.34%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Dollodon**
-> Named after the Belgian paleontologist Louis Dollo.
+> ### **Aorun**
+> A small theropod of late Jurassic Asia.
 
 ---
 
