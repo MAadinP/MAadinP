@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **161 days** left in 2026!
+👉 **160 days** left in 2026!
 
-📅 Year Progress: ███████████░░░░░░░░░ 55.62%
+📅 Year Progress: ███████████░░░░░░░░░ 55.89%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Ornithopsis**
-> This "bird face" was actually a genus of titanosaur.
+> ### **Xuwulong**
+> This iguanodontid ornithopod was recently discovered in China.
 
 ---
 
