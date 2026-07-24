@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **160 days** left in 2026!
+👉 **159 days** left in 2026!
 
-📅 Year Progress: ███████████░░░░░░░░░ 55.89%
+📅 Year Progress: ███████████░░░░░░░░░ 56.16%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Xuwulong**
-> This iguanodontid ornithopod was recently discovered in China.
+> ### **Ammosaurus**
+> This may (or may not) have been the same dinosaur as Anchisaurus.
 
 ---
 
