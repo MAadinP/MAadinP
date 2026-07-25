@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **159 days** left in 2026!
+👉 **158 days** left in 2026!
 
-📅 Year Progress: ███████████░░░░░░░░░ 56.16%
+📅 Year Progress: ███████████░░░░░░░░░ 56.44%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Ammosaurus**
-> This may (or may not) have been the same dinosaur as Anchisaurus.
+> ### **Limusaurus**
+> Was this toothless theropod a vegetarian?
 
 ---
 
