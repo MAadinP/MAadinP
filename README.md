@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **158 days** left in 2026!
+👉 **157 days** left in 2026!
 
-📅 Year Progress: ███████████░░░░░░░░░ 56.44%
+📅 Year Progress: ███████████░░░░░░░░░ 56.71%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Limusaurus**
-> Was this toothless theropod a vegetarian?
+> ### **Scansoriopteryx**
+> This early proto-bird probably lived in trees.
 
 ---
 
