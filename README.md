@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **157 days** left in 2026!
+👉 **156 days** left in 2026!
 
-📅 Year Progress: ███████████░░░░░░░░░ 56.71%
+📅 Year Progress: ███████████░░░░░░░░░ 56.99%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Scansoriopteryx**
-> This early proto-bird probably lived in trees.
+> ### **Juravenator**
+> Why didn't this presumed "dino-bird" have feathers?
 
 ---
 
