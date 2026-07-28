@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **156 days** left in 2026!
+👉 **155 days** left in 2026!
 
-📅 Year Progress: ███████████░░░░░░░░░ 56.99%
+📅 Year Progress: ███████████░░░░░░░░░ 57.26%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Juravenator**
-> Why didn't this presumed "dino-bird" have feathers?
+> ### **Coronosaurus**
+> This "crown lizard" was once classified as a species of Centrosaurus.
 
 ---
 
