@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **155 days** left in 2026!
+👉 **154 days** left in 2026!
 
-📅 Year Progress: ███████████░░░░░░░░░ 57.26%
+📅 Year Progress: ███████████░░░░░░░░░ 57.53%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Coronosaurus**
-> This "crown lizard" was once classified as a species of Centrosaurus.
+> ### **Rajasaurus**
+> This "prince lizard" lived in what is now modern-day India.
 
 ---
 
