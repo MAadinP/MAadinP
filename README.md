@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **153 days** left in 2026!
+👉 **152 days** left in 2026!
 
-📅 Year Progress: ███████████░░░░░░░░░ 57.81%
+📅 Year Progress: ███████████░░░░░░░░░ 58.08%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Falcarius**
-> A bizarre, feathered theropod from North America.
+> ### **Bruhathkayosaurus**
+> Was this titanosaur bigger than Argentinosaurus?
 
 ---
 
