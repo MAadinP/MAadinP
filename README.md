@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **152 days** left in 2026!
+👉 **151 days** left in 2026!
 
-📅 Year Progress: ███████████░░░░░░░░░ 58.08%
+📅 Year Progress: ███████████░░░░░░░░░ 58.36%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Bruhathkayosaurus**
-> Was this titanosaur bigger than Argentinosaurus?
+> ### **Xuanhanosaurus**
+> You didn't think there'd be so many "X"'s on this list, did you?
 
 ---
 
