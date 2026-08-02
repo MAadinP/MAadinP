@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **151 days** left in 2026!
+👉 **150 days** left in 2026!
 
-📅 Year Progress: ███████████░░░░░░░░░ 58.36%
+📅 Year Progress: ███████████░░░░░░░░░ 58.63%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Xuanhanosaurus**
-> You didn't think there'd be so many "X"'s on this list, did you?
+> ### **Diceratops**
+> Was this two-horned dinosaur really a specimen of Triceratops?
 
 ---
 
