@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **150 days** left in 2026!
+👉 **149 days** left in 2026!
 
-📅 Year Progress: ███████████░░░░░░░░░ 58.63%
+📅 Year Progress: ███████████░░░░░░░░░ 58.90%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Diceratops**
-> Was this two-horned dinosaur really a specimen of Triceratops?
+> ### **Claosaurus**
+> This "broken lizard" was a primitive hadrosaur.
 
 ---
 
