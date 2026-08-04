@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **149 days** left in 2026!
+👉 **148 days** left in 2026!
 
-📅 Year Progress: ███████████░░░░░░░░░ 58.90%
+📅 Year Progress: ███████████░░░░░░░░░ 59.18%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Claosaurus**
-> This "broken lizard" was a primitive hadrosaur.
+> ### **Thecodontosaurus**
+> The first prosauropod ever to be discovered.
 
 ---
 
