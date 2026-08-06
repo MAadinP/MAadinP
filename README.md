@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **147 days** left in 2026!
+👉 **146 days** left in 2026!
 
-📅 Year Progress: ███████████░░░░░░░░░ 59.45%
+📅 Year Progress: ███████████░░░░░░░░░ 59.73%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Aviatyrannis**
-> This "grandmother tyrant" was one of the first tyrannosaurs.
+> ### **Jingshanosaurus**
+> A close relative of Yunnanosaurus.
 
 ---
 
