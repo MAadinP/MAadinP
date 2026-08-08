@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **145 days** left in 2026!
+👉 **144 days** left in 2026!
 
-📅 Year Progress: ████████████░░░░░░░░ 60.00%
+📅 Year Progress: ████████████░░░░░░░░ 60.27%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Pantydraco**
-> No, this dinosaur didn't wear you-know-what.
+> ### **Echinodon**
+> One of the few ornithopods to sport a set of canines.
 
 ---
 
