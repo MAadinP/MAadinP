@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **144 days** left in 2026!
+👉 **143 days** left in 2026!
 
-📅 Year Progress: ████████████░░░░░░░░ 60.27%
+📅 Year Progress: ████████████░░░░░░░░ 60.55%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Echinodon**
-> One of the few ornithopods to sport a set of canines.
+> ### **Gasparinisaura**
+> One of the few ornithopods known to have lived in South America.
 
 ---
 
