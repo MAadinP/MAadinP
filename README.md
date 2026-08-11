@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **142 days** left in 2026!
+👉 **141 days** left in 2026!
 
-📅 Year Progress: ████████████░░░░░░░░ 60.82%
+📅 Year Progress: ████████████░░░░░░░░ 61.10%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Gorgosaurus**
-> Might this tyrannosaur have been a species of Albertosaurus?
+> ### **Rinchenia**
+> Named after the famous paleontologist Rinchen Barsbold.
 
 ---
 
