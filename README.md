@@ -3,20 +3,19 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **141 days** left in 2026!
+👉 **140 days** left in 2026!
 
-📅 Year Progress: ████████████░░░░░░░░ 61.10%
+📅 Year Progress: ████████████░░░░░░░░ 61.37%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
 > ### **Rinchenia**
