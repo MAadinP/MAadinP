@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **140 days** left in 2026!
+👉 **139 days** left in 2026!
 
-📅 Year Progress: ████████████░░░░░░░░ 61.37%
+📅 Year Progress: ████████████░░░░░░░░ 61.64%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Rinchenia**
-> Named after the famous paleontologist Rinchen Barsbold.
+> ### **Epidendrosaurus**
+> Did this tiny dino-bird spend its life up a tree?
 
 ---
 
