@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **137 days** left in 2026!
+👉 **136 days** left in 2026!
 
-📅 Year Progress: ████████████░░░░░░░░ 62.19%
+📅 Year Progress: ████████████░░░░░░░░ 62.47%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Eolambia**
-> An early hadrosaur from North America.
+> ### **Lusotitan**
+> This sauropod was once classified as a species of Brachiosaurus.
 
 ---
 
