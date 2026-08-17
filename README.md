@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **136 days** left in 2026!
+👉 **135 days** left in 2026!
 
-📅 Year Progress: ████████████░░░░░░░░ 62.47%
+📅 Year Progress: ████████████░░░░░░░░ 62.74%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Lusotitan**
-> This sauropod was once classified as a species of Brachiosaurus.
+> ### **Udanoceratops**
+> The largest ceratopsian to run on two legs.
 
 ---
 
