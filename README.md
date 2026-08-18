@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **135 days** left in 2026!
+👉 **134 days** left in 2026!
 
-📅 Year Progress: ████████████░░░░░░░░ 62.74%
+📅 Year Progress: ████████████░░░░░░░░ 63.01%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Udanoceratops**
-> The largest ceratopsian to run on two legs.
+> ### **Minmi**
+> An early (and very dumb) ankylosaur from Australia.
 
 ---
 
