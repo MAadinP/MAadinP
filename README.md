@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **134 days** left in 2026!
+👉 **133 days** left in 2026!
 
-📅 Year Progress: ████████████░░░░░░░░ 63.01%
+📅 Year Progress: ████████████░░░░░░░░ 63.29%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Minmi**
-> An early (and very dumb) ankylosaur from Australia.
+> ### **Dracovenator**
+> This "dragon hunter" was a close relative of Dilophosaurus.
 
 ---
 
