@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **133 days** left in 2026!
+👉 **132 days** left in 2026!
 
-📅 Year Progress: ████████████░░░░░░░░ 63.29%
+📅 Year Progress: ████████████░░░░░░░░ 63.56%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Dracovenator**
-> This "dragon hunter" was a close relative of Dilophosaurus.
+> ### **Baryonyx**
+> You wouldn't want to clip this dinosaur's claws.
 
 ---
 
