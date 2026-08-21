@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **132 days** left in 2026!
+👉 **131 days** left in 2026!
 
-📅 Year Progress: ████████████░░░░░░░░ 63.56%
+📅 Year Progress: ████████████░░░░░░░░ 63.84%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Baryonyx**
-> You wouldn't want to clip this dinosaur's claws.
+> ### **Udanoceratops**
+> The largest ceratopsian to run on two legs.
 
 ---
 
