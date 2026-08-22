@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **131 days** left in 2026!
+👉 **130 days** left in 2026!
 
-📅 Year Progress: ████████████░░░░░░░░ 63.84%
+📅 Year Progress: ████████████░░░░░░░░ 64.11%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Udanoceratops**
-> The largest ceratopsian to run on two legs.
+> ### **Indosuchus**
+> This "Indian crocodile" was actually a dinosaur.
 
 ---
 
