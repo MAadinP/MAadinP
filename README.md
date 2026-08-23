@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **130 days** left in 2026!
+👉 **129 days** left in 2026!
 
-📅 Year Progress: ████████████░░░░░░░░ 64.11%
+📅 Year Progress: ████████████░░░░░░░░ 64.38%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Indosuchus**
-> This "Indian crocodile" was actually a dinosaur.
+> ### **Pamparaptor**
+> This raptor was discovered in the Argentinian Pampas.
 
 ---
 
