@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **129 days** left in 2026!
+👉 **128 days** left in 2026!
 
-📅 Year Progress: ████████████░░░░░░░░ 64.38%
+📅 Year Progress: ████████████░░░░░░░░ 64.66%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Pamparaptor**
-> This raptor was discovered in the Argentinian Pampas.
+> ### **Pampadromaeus**
+> This "Pampas runner" was ancestral to sauropods.
 
 ---
 
