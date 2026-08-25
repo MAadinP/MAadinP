@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **128 days** left in 2026!
+👉 **127 days** left in 2026!
 
-📅 Year Progress: ████████████░░░░░░░░ 64.66%
+📅 Year Progress: ████████████░░░░░░░░ 64.93%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Pampadromaeus**
-> This "Pampas runner" was ancestral to sauropods.
+> ### **Velafrons**
+> A new addition to the duck-billed dinosaur family.
 
 ---
 
