@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **127 days** left in 2026!
+👉 **126 days** left in 2026!
 
-📅 Year Progress: ████████████░░░░░░░░ 64.93%
+📅 Year Progress: █████████████░░░░░░░ 65.21%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Velafrons**
-> A new addition to the duck-billed dinosaur family.
+> ### **Guaibasaurus**
+> Was this early dinosaur a theropod or a prosauropod?
 
 ---
 
