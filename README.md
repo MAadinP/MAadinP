@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **126 days** left in 2026!
+👉 **125 days** left in 2026!
 
-📅 Year Progress: █████████████░░░░░░░ 65.21%
+📅 Year Progress: █████████████░░░░░░░ 65.48%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Guaibasaurus**
-> Was this early dinosaur a theropod or a prosauropod?
+> ### **Scansoriopteryx**
+> This early proto-bird probably lived in trees.
 
 ---
 
