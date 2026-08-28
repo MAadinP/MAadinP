@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **125 days** left in 2026!
+👉 **124 days** left in 2026!
 
-📅 Year Progress: █████████████░░░░░░░ 65.48%
+📅 Year Progress: █████████████░░░░░░░ 65.75%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Scansoriopteryx**
-> This early proto-bird probably lived in trees.
+> ### **Neovenator**
+> One of the largest carnivorous dinosaurs of western Europe.
 
 ---
 
