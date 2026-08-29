@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **124 days** left in 2026!
+👉 **123 days** left in 2026!
 
-📅 Year Progress: █████████████░░░░░░░ 65.75%
+📅 Year Progress: █████████████░░░░░░░ 66.03%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Neovenator**
-> One of the largest carnivorous dinosaurs of western Europe.
+> ### **Berberosaurus**
+> This "Berber lizard" has proven difficult to classify.
 
 ---
 
