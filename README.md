@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **123 days** left in 2026!
+👉 **122 days** left in 2026!
 
-📅 Year Progress: █████████████░░░░░░░ 66.03%
+📅 Year Progress: █████████████░░░░░░░ 66.30%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Berberosaurus**
-> This "Berber lizard" has proven difficult to classify.
+> ### **Chialingosaurus**
+> One of the earliest Asian stegosaurs.
 
 ---
 
