@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **122 days** left in 2026!
+👉 **121 days** left in 2026!
 
-📅 Year Progress: █████████████░░░░░░░ 66.30%
+📅 Year Progress: █████████████░░░░░░░ 66.58%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Chialingosaurus**
-> One of the earliest Asian stegosaurs.
+> ### **Stygimoloch**
+> Its name means "demon from the river of death." Got your attention yet?
 
 ---
 
