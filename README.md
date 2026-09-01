@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **121 days** left in 2026!
+👉 **120 days** left in 2026!
 
-📅 Year Progress: █████████████░░░░░░░ 66.58%
+📅 Year Progress: █████████████░░░░░░░ 66.85%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Stygimoloch**
-> Its name means "demon from the river of death." Got your attention yet?
+> ### **Nanotyrannus**
+> Could this have been a juvenile T. Rex?
 
 ---
 
