@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **120 days** left in 2026!
+👉 **119 days** left in 2026!
 
-📅 Year Progress: █████████████░░░░░░░ 66.85%
+📅 Year Progress: █████████████░░░░░░░ 67.12%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Nanotyrannus**
-> Could this have been a juvenile T. Rex?
+> ### **Scansoriopteryx**
+> This early proto-bird probably lived in trees.
 
 ---
 
