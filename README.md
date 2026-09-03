@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **119 days** left in 2026!
+👉 **118 days** left in 2026!
 
-📅 Year Progress: █████████████░░░░░░░ 67.12%
+📅 Year Progress: █████████████░░░░░░░ 67.40%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Scansoriopteryx**
-> This early proto-bird probably lived in trees.
+> ### **Austrosaurus**
+> This titanosaur was discovered near a train station.
 
 ---
 
