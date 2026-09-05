@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **117 days** left in 2026!
+👉 **116 days** left in 2026!
 
-📅 Year Progress: █████████████░░░░░░░ 67.67%
+📅 Year Progress: █████████████░░░░░░░ 67.95%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Diceratops**
-> Was this two-horned dinosaur really a specimen of Triceratops?
+> ### **Uberabatitan**
+> Discovered in the Uberaba region of Brazil.
 
 ---
 
