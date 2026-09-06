@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **116 days** left in 2026!
+👉 **115 days** left in 2026!
 
-📅 Year Progress: █████████████░░░░░░░ 67.95%
+📅 Year Progress: █████████████░░░░░░░ 68.22%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Uberabatitan**
-> Discovered in the Uberaba region of Brazil.
+> ### **Psittacosaurus**
+> This dinosaur's noggin wouldn't have looked out of place on a parrot.
 
 ---
 
