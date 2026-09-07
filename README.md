@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **115 days** left in 2026!
+👉 **114 days** left in 2026!
 
-📅 Year Progress: █████████████░░░░░░░ 68.22%
+📅 Year Progress: █████████████░░░░░░░ 68.49%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Psittacosaurus**
-> This dinosaur's noggin wouldn't have looked out of place on a parrot.
+> ### **Rinconsaurus**
+> A modestly sized titanosaur of South America.
 
 ---
 
