@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **114 days** left in 2026!
+👉 **113 days** left in 2026!
 
-📅 Year Progress: █████████████░░░░░░░ 68.49%
+📅 Year Progress: █████████████░░░░░░░ 68.77%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Rinconsaurus**
-> A modestly sized titanosaur of South America.
+> ### **Zephyrosaurus**
+> Otherwise known as the Western Wind Lizard.
 
 ---
 
