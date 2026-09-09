@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **113 days** left in 2026!
+👉 **112 days** left in 2026!
 
-📅 Year Progress: █████████████░░░░░░░ 68.77%
+📅 Year Progress: █████████████░░░░░░░ 69.04%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Zephyrosaurus**
-> Otherwise known as the Western Wind Lizard.
+> ### **Huaxiagnathus**
+> One of the biggest dino-birds of its time.
 
 ---
 
