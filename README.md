@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **112 days** left in 2026!
+👉 **111 days** left in 2026!
 
-📅 Year Progress: █████████████░░░░░░░ 69.04%
+📅 Year Progress: █████████████░░░░░░░ 69.32%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Huaxiagnathus**
-> One of the biggest dino-birds of its time.
+> ### **Beipiaosaurus**
+> The only known feathered therizinosaur.
 
 ---
 
