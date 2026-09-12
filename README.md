@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **110 days** left in 2026!
+👉 **109 days** left in 2026!
 
-📅 Year Progress: █████████████░░░░░░░ 69.59%
+📅 Year Progress: █████████████░░░░░░░ 69.86%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Alamosaurus**
-> No, it wasn't named after the Alamo, but it should have been.
+> ### **Xenoposeidon**
+> Experts aren't sure how to classify this sauropod.
 
 ---
 
