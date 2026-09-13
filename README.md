@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **109 days** left in 2026!
+👉 **108 days** left in 2026!
 
-📅 Year Progress: █████████████░░░░░░░ 69.86%
+📅 Year Progress: ██████████████░░░░░░ 70.14%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Xenoposeidon**
-> Experts aren't sure how to classify this sauropod.
+> ### **Rubeosaurus**
+> A ceratopsian dinosaur from the Two Medicine Formation.
 
 ---
 
