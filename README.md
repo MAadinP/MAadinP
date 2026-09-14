@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **108 days** left in 2026!
+👉 **107 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 70.14%
+📅 Year Progress: ██████████████░░░░░░ 70.41%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Rubeosaurus**
-> A ceratopsian dinosaur from the Two Medicine Formation.
+> ### **Camptosaurus**
+> A close relative of Iguanodon.
 
 ---
 
