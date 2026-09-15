@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **107 days** left in 2026!
+👉 **106 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 70.41%
+📅 Year Progress: ██████████████░░░░░░ 70.68%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Camptosaurus**
-> A close relative of Iguanodon.
+> ### **Mirischia**
+> Its name means "wonderful pelvis".
 
 ---
 
