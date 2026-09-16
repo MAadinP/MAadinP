@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **106 days** left in 2026!
+👉 **105 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 70.68%
+📅 Year Progress: ██████████████░░░░░░ 70.96%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Mirischia**
-> Its name means "wonderful pelvis".
+> ### **Edmarka**
+> This may have been a species of Torvosaurus.
 
 ---
 
