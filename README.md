@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **105 days** left in 2026!
+👉 **104 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 70.96%
+📅 Year Progress: ██████████████░░░░░░ 71.23%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Edmarka**
-> This may have been a species of Torvosaurus.
+> ### **Albertonykus**
+> A tiny, birdlike, North American dinosaur.
 
 ---
 
