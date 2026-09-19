@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **103 days** left in 2026!
+👉 **102 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 71.51%
+📅 Year Progress: ██████████████░░░░░░ 71.78%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Gobisaurus**
-> An unusually large ankylosaur of central Asia.
+> ### **Daemonosauru 0s**
+> This "evil lizard" was a close relative of Coelophysis.
 
 ---
 
