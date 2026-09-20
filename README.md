@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **102 days** left in 2026!
+👉 **101 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 71.78%
+📅 Year Progress: ██████████████░░░░░░ 72.05%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Daemonosauru 0s**
-> This "evil lizard" was a close relative of Coelophysis.
+> ### **Shaochilong**
+> Its name is Chinese for "shark-toothed dragon".
 
 ---
 
