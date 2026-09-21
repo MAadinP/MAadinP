@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **101 days** left in 2026!
+👉 **100 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 72.05%
+📅 Year Progress: ██████████████░░░░░░ 72.33%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Shaochilong**
-> Its name is Chinese for "shark-toothed dragon".
+> ### **Panoplosaurus**
+> A squat, stocky nodosaur of the late Cretaceous.
 
 ---
 
