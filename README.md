@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **100 days** left in 2026!
+👉 **99 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 72.33%
+📅 Year Progress: ██████████████░░░░░░ 72.60%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Panoplosaurus**
-> A squat, stocky nodosaur of the late Cretaceous.
+> ### **Hylaeosaurus**
+> One of the first creatures ever to be called a dinosaur.
 
 ---
 
