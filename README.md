@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **99 days** left in 2026!
+👉 **98 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 72.60%
+📅 Year Progress: ██████████████░░░░░░ 72.88%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Hylaeosaurus**
-> One of the first creatures ever to be called a dinosaur.
+> ### **Sellosaurus**
+> Another early prosauropod of the Triassic period.
 
 ---
 
