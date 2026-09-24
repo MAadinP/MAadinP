@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **98 days** left in 2026!
+👉 **97 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 72.88%
+📅 Year Progress: ██████████████░░░░░░ 73.15%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Sellosaurus**
-> Another early prosauropod of the Triassic period.
+> ### **Nuthetes**
+> This raptor was named after the modern monitor lizard.
 
 ---
 
