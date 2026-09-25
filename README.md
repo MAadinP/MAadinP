@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **97 days** left in 2026!
+👉 **96 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 73.15%
+📅 Year Progress: ██████████████░░░░░░ 73.42%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Nuthetes**
-> This raptor was named after the modern monitor lizard.
+> ### **Gargoyleosaurus**
+> This "gargoyle lizard" was an ancestor of Ankylosaurus.
 
 ---
 
