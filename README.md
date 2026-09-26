@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **96 days** left in 2026!
+👉 **95 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 73.42%
+📅 Year Progress: ██████████████░░░░░░ 73.70%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Gargoyleosaurus**
-> This "gargoyle lizard" was an ancestor of Ankylosaurus.
+> ### **Planicoxa**
+> A medium-sized iguanodont of early Cretaceous North America.
 
 ---
 
