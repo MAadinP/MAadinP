@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **95 days** left in 2026!
+👉 **94 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 73.70%
+📅 Year Progress: ██████████████░░░░░░ 73.97%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Planicoxa**
-> A medium-sized iguanodont of early Cretaceous North America.
+> ### **Diamantinasaurus**
+> This titanosaur was recently discovered in Australia.
 
 ---
 
