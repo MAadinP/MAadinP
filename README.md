@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **94 days** left in 2026!
+👉 **93 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 73.97%
+📅 Year Progress: ██████████████░░░░░░ 74.25%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Diamantinasaurus**
-> This titanosaur was recently discovered in Australia.
+> ### **Aletopelta**
+> The first ankylosaur known to have lived in Mexico.
 
 ---
 
