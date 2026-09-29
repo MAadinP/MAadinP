@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **93 days** left in 2026!
+👉 **92 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 74.25%
+📅 Year Progress: ██████████████░░░░░░ 74.52%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Aletopelta**
-> The first ankylosaur known to have lived in Mexico.
+> ### **Jeholosaurus**
+> This ornithopod may have had an omnivorous diet.
 
 ---
 
