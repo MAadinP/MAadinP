@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **92 days** left in 2026!
+👉 **91 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 74.52%
+📅 Year Progress: ██████████████░░░░░░ 74.79%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Jeholosaurus**
-> This ornithopod may have had an omnivorous diet.
+> ### **Rubeosaurus**
+> A ceratopsian dinosaur from the Two Medicine Formation.
 
 ---
 
