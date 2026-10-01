@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **91 days** left in 2026!
+👉 **90 days** left in 2026!
 
-📅 Year Progress: ██████████████░░░░░░ 74.79%
+📅 Year Progress: ███████████████░░░░░ 75.07%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Rubeosaurus**
-> A ceratopsian dinosaur from the Two Medicine Formation.
+> ### **Agujaceratops**
+> It was once classified as a species of Chasmosaurus.
 
 ---
 
