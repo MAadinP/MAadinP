@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **90 days** left in 2026!
+👉 **89 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 75.07%
+📅 Year Progress: ███████████████░░░░░ 75.34%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Agujaceratops**
-> It was once classified as a species of Chasmosaurus.
+> ### **Scolosaurus**
+> It was once classified as a species of Euoplocephalus.
 
 ---
 
