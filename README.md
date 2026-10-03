@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **89 days** left in 2026!
+👉 **88 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 75.34%
+📅 Year Progress: ███████████████░░░░░ 75.62%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Scolosaurus**
-> It was once classified as a species of Euoplocephalus.
+> ### **Appalachiosaurus**
+> One of the few dinosaurs ever to be found in Alabama.
 
 ---
 
