@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **88 days** left in 2026!
+👉 **87 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 75.62%
+📅 Year Progress: ███████████████░░░░░ 75.89%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Appalachiosaurus**
-> One of the few dinosaurs ever to be found in Alabama.
+> ### **Saurolophus**
+> One of the few hadrosaurs known to have lived on two continents.
 
 ---
 
