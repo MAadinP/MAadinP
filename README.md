@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **87 days** left in 2026!
+👉 **86 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 75.89%
+📅 Year Progress: ███████████████░░░░░ 76.16%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Saurolophus**
-> One of the few hadrosaurs known to have lived on two continents.
+> ### **Erketu**
+> This titanosaur had an unusually long neck.
 
 ---
 
