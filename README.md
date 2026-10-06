@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **86 days** left in 2026!
+👉 **85 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 76.16%
+📅 Year Progress: ███████████████░░░░░ 76.44%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Erketu**
-> This titanosaur had an unusually long neck.
+> ### **Nothronychus**
+> The first therizonosaur to be found outside Asia.
 
 ---
 
