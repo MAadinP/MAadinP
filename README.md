@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **85 days** left in 2026!
+👉 **84 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 76.44%
+📅 Year Progress: ███████████████░░░░░ 76.71%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Nothronychus**
-> The first therizonosaur to be found outside Asia.
+> ### **Variraptor**
+> The first raptor ever to be discovered in France.
 
 ---
 
