@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **84 days** left in 2026!
+👉 **83 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 76.71%
+📅 Year Progress: ███████████████░░░░░ 76.99%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Variraptor**
-> The first raptor ever to be discovered in France.
+> ### **Alectrosaurus**
+> Few specimens of this "unmarried lizard" have been found.
 
 ---
 
