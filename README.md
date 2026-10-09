@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **83 days** left in 2026!
+👉 **82 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 76.99%
+📅 Year Progress: ███████████████░░░░░ 77.26%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Alectrosaurus**
-> Few specimens of this "unmarried lizard" have been found.
+> ### **Tarascosaurus**
+> The only known abelisaur of the northern hemisphere.
 
 ---
 
