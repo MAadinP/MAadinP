@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **82 days** left in 2026!
+👉 **81 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 77.26%
+📅 Year Progress: ███████████████░░░░░ 77.53%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Tarascosaurus**
-> The only known abelisaur of the northern hemisphere.
+> ### **Datousaurus**
+> A medium-sized sauropod from middle Jurassic Asia.
 
 ---
 
