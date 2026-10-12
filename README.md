@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **80 days** left in 2026!
+👉 **79 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 77.81%
+📅 Year Progress: ███████████████░░░░░ 78.08%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Nanshiungosaurus**
-> A bizarre therizinosaur from Asia.
+> ### **Zupaysaurus**
+> This "devil lizard" was one of the earliest theropods.
 
 ---
 
