@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **79 days** left in 2026!
+👉 **78 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 78.08%
+📅 Year Progress: ███████████████░░░░░ 78.36%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Zupaysaurus**
-> This "devil lizard" was one of the earliest theropods.
+> ### **Anchiceratops**
+> This dinosaur had a distinctively shaped frill.
 
 ---
 
