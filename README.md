@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **78 days** left in 2026!
+👉 **77 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 78.36%
+📅 Year Progress: ███████████████░░░░░ 78.63%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Anchiceratops**
-> This dinosaur had a distinctively shaped frill.
+> ### **Dacentrurus**
+> The first stegosaur ever to be described.
 
 ---
 
