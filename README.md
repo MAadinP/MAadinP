@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **77 days** left in 2026!
+👉 **76 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 78.63%
+📅 Year Progress: ███████████████░░░░░ 78.90%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Dacentrurus**
-> The first stegosaur ever to be described.
+> ### **Magnapaulia**
+> The largest lambeosaurine hadrosaur yet identified.
 
 ---
 
