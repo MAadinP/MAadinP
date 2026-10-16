@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **76 days** left in 2026!
+👉 **75 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 78.90%
+📅 Year Progress: ███████████████░░░░░ 79.18%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Magnapaulia**
-> The largest lambeosaurine hadrosaur yet identified.
+> ### **Hylaeosaurus**
+> One of the first creatures ever to be called a dinosaur.
 
 ---
 
