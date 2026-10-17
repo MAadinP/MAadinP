@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **75 days** left in 2026!
+👉 **74 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 79.18%
+📅 Year Progress: ███████████████░░░░░ 79.45%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Hylaeosaurus**
-> One of the first creatures ever to be called a dinosaur.
+> ### **Yunnanosaurus**
+> One of the last prosauropods to walk the earth.
 
 ---
 
