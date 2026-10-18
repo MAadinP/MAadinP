@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **74 days** left in 2026!
+👉 **73 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 79.45%
+📅 Year Progress: ███████████████░░░░░ 79.73%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Yunnanosaurus**
-> One of the last prosauropods to walk the earth.
+> ### **Othnielosaurus**
+> Also named after the famous paleontologist Othniel C. Marsh.
 
 ---
 
