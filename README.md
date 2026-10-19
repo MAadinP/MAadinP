@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **73 days** left in 2026!
+👉 **72 days** left in 2026!
 
-📅 Year Progress: ███████████████░░░░░ 79.73%
+📅 Year Progress: ████████████████░░░░ 80.00%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Othnielosaurus**
-> Also named after the famous paleontologist Othniel C. Marsh.
+> ### **Dracorex**
+> The only dinosaur to be named after the "Harry Potter" books.
 
 ---
 
