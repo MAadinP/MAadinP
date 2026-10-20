@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **72 days** left in 2026!
+👉 **71 days** left in 2026!
 
-📅 Year Progress: ████████████████░░░░ 80.00%
+📅 Year Progress: ████████████████░░░░ 80.27%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Dracorex**
-> The only dinosaur to be named after the "Harry Potter" books.
+> ### **Uberabatitan**
+> Discovered in the Uberaba region of Brazil.
 
 ---
 
