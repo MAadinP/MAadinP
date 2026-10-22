@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **70 days** left in 2026!
+👉 **69 days** left in 2026!
 
-📅 Year Progress: ████████████████░░░░ 80.55%
+📅 Year Progress: ████████████████░░░░ 80.82%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Noasaurus**
-> Were this predator's giant claws on its hands, or on its feet?
+> ### **Jainosaurus**
+> Named after the Indian paleontologist Sohan Lal Jain.
 
 ---
 
