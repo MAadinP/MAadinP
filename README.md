@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **69 days** left in 2026!
+👉 **68 days** left in 2026!
 
-📅 Year Progress: ████████████████░░░░ 80.82%
+📅 Year Progress: ████████████████░░░░ 81.10%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Jainosaurus**
-> Named after the Indian paleontologist Sohan Lal Jain.
+> ### **Pyroraptor**
+> This "fire thief" prowled the plains of prehistoric France.
 
 ---
 
