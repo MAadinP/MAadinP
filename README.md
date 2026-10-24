@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **68 days** left in 2026!
+👉 **67 days** left in 2026!
 
-📅 Year Progress: ████████████████░░░░ 81.10%
+📅 Year Progress: ████████████████░░░░ 81.37%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Pyroraptor**
-> This "fire thief" prowled the plains of prehistoric France.
+> ### **Monolophosaurus**
+> This Jurassic predator had a single crest on its skull.
 
 ---
 
