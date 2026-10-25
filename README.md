@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **67 days** left in 2026!
+👉 **66 days** left in 2026!
 
-📅 Year Progress: ████████████████░░░░ 81.37%
+📅 Year Progress: ████████████████░░░░ 81.64%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Monolophosaurus**
-> This Jurassic predator had a single crest on its skull.
+> ### **Tapuiasaurus**
+> A recently discovered titanosaur from South America.
 
 ---
 
