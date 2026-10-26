@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **66 days** left in 2026!
+👉 **65 days** left in 2026!
 
-📅 Year Progress: ████████████████░░░░ 81.64%
+📅 Year Progress: ████████████████░░░░ 81.92%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Tapuiasaurus**
-> A recently discovered titanosaur from South America.
+> ### **Colepiocephale**
+> This thick-skulled dinosaur's name is Greek for "knucklehead".
 
 ---
 
