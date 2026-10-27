@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **65 days** left in 2026!
+👉 **64 days** left in 2026!
 
-📅 Year Progress: ████████████████░░░░ 81.92%
+📅 Year Progress: ████████████████░░░░ 82.19%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Colepiocephale**
-> This thick-skulled dinosaur's name is Greek for "knucklehead".
+> ### **Eosinopteryx**
+> A tiny feathered dinosaur of the late Jurassic period.
 
 ---
 
