@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **64 days** left in 2026!
+👉 **63 days** left in 2026!
 
-📅 Year Progress: ████████████████░░░░ 82.19%
+📅 Year Progress: ████████████████░░░░ 82.47%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -18,8 +18,8 @@ Hi there! Here's some fun info for today:
          `--'
 ```
 
-> ### **Eosinopteryx**
-> A tiny feathered dinosaur of the late Jurassic period.
+> ### **Vagaceratops**
+> This big-frilled dinosaur was closely related to Kosmoceratops.
 
 ---
 
