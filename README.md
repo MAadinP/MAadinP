@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **63 days** left in 2026!
+👉 **62 days** left in 2026!
 
-📅 Year Progress: ████████████████░░░░ 82.47%
+📅 Year Progress: ████████████████░░░░ 82.74%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Vagaceratops**
-> This big-frilled dinosaur was closely related to Kosmoceratops.
+> ### **Martharaptor**
+> This dinosaur was named after a Utah paleontologist.
 
 ---
 
