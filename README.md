@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **62 days** left in 2026!
+👉 **61 days** left in 2026!
 
-📅 Year Progress: ████████████████░░░░ 82.74%
+📅 Year Progress: ████████████████░░░░ 83.01%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Martharaptor**
-> This dinosaur was named after a Utah paleontologist.
+> ### **Jaxartosaurus**
+> A poorly known hadrosaur from central Asia.
 
 ---
 
