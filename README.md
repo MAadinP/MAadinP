@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **60 days** left in 2026!
+👉 **59 days** left in 2026!
 
-📅 Year Progress: ████████████████░░░░ 83.29%
+📅 Year Progress: ████████████████░░░░ 83.56%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Utahceratops**
-> Guess what state this dinosaur was discovered in.
+> ### **Paralititan**
+> This huge sauropod was discovered recently in Egypt.
 
 ---
 
