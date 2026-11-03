@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **58 days** left in 2026!
+👉 **57 days** left in 2026!
 
-📅 Year Progress: ████████████████░░░░ 83.84%
+📅 Year Progress: ████████████████░░░░ 84.11%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Elaphrosaurus**
-> A lightweight theropod from the late Jurassic.
+> ### **Dicraeosaurus**
+> A medium-sized, spiny-necked sauropod.
 
 ---
 
