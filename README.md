@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **57 days** left in 2026!
+👉 **56 days** left in 2026!
 
-📅 Year Progress: ████████████████░░░░ 84.11%
+📅 Year Progress: ████████████████░░░░ 84.38%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Dicraeosaurus**
-> A medium-sized, spiny-necked sauropod.
+> ### **Texacephale**
+> This Texan pachycephalosaur was named in 2010.
 
 ---
 
