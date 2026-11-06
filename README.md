@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **55 days** left in 2026!
+👉 **54 days** left in 2026!
 
-📅 Year Progress: ████████████████░░░░ 84.66%
+📅 Year Progress: ████████████████░░░░ 84.93%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Jinzhousaurus**
-> This Asian dinosaur was one of the first hadrosaurs.
+> ### **Liaoningosaurus**
+> One of the smallest ankylosaurs in the fossil record.
 
 ---
 
