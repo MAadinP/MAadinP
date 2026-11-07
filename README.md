@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **54 days** left in 2026!
+👉 **53 days** left in 2026!
 
-📅 Year Progress: ████████████████░░░░ 84.93%
+📅 Year Progress: █████████████████░░░ 85.21%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Liaoningosaurus**
-> One of the smallest ankylosaurs in the fossil record.
+> ### **Nanshiungosaurus**
+> A bizarre therizinosaur from Asia.
 
 ---
 
