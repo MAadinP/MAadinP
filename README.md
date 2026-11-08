@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **53 days** left in 2026!
+👉 **52 days** left in 2026!
 
-📅 Year Progress: █████████████████░░░ 85.21%
+📅 Year Progress: █████████████████░░░ 85.48%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Nanshiungosaurus**
-> A bizarre therizinosaur from Asia.
+> ### **Sarcolestes**
+> The most likely ancestor of the ankylosaurs.
 
 ---
 
