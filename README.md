@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **52 days** left in 2026!
+👉 **51 days** left in 2026!
 
-📅 Year Progress: █████████████████░░░ 85.48%
+📅 Year Progress: █████████████████░░░ 85.75%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Sarcolestes**
-> The most likely ancestor of the ankylosaurs.
+> ### **Dracorex**
+> The only dinosaur to be named after the "Harry Potter" books.
 
 ---
 
