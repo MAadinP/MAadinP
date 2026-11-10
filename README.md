@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **51 days** left in 2026!
+👉 **50 days** left in 2026!
 
-📅 Year Progress: █████████████████░░░ 85.75%
+📅 Year Progress: █████████████████░░░ 86.03%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Dracorex**
-> The only dinosaur to be named after the "Harry Potter" books.
+> ### **Achelousaurus**
+> Might this have been a growth stage of Pachyrhinosaurus?
 
 ---
 
