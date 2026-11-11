@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **50 days** left in 2026!
+👉 **49 days** left in 2026!
 
-📅 Year Progress: █████████████████░░░ 86.03%
+📅 Year Progress: █████████████████░░░ 86.30%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Achelousaurus**
-> Might this have been a growth stage of Pachyrhinosaurus?
+> ### **Pachycephalosaurus**
+> This plant-eater gave new meaning to the word "blockhead".
 
 ---
 
