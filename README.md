@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **49 days** left in 2026!
+👉 **48 days** left in 2026!
 
-📅 Year Progress: █████████████████░░░ 86.30%
+📅 Year Progress: █████████████████░░░ 86.58%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Pachycephalosaurus**
-> This plant-eater gave new meaning to the word "blockhead".
+> ### **Deinonychus**
+> One of the most fearsome raptors of the Cretaceous period.
 
 ---
 
