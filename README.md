@@ -3,24 +3,23 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **48 days** left in 2026!
+👉 **47 days** left in 2026!
 
-📅 Year Progress: █████████████████░░░ 86.58%
+📅 Year Progress: █████████████████░░░ 86.85%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-           __
-          / _)
-   .-^^^-/ /
-__/       /
-<__.|_|-|_|
+          __
+         /oo\
+        (    )
+         `--'
 ```
 
-> ### **Deinonychus**
-> One of the most fearsome raptors of the Cretaceous period.
+> ### **Ceratonykus**
+> This dino-bird was discovered in Mongolia in 2009.
 
 ---
 
