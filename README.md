@@ -3,23 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **47 days** left in 2026!
+👉 **46 days** left in 2026!
 
-📅 Year Progress: █████████████████░░░ 86.85%
+📅 Year Progress: █████████████████░░░ 87.12%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-          __
-         /oo\
-        (    )
-         `--'
+             __
+            / _)
+     .-^^^-/ /
+  __/       /
+ <__.|_|-|_|
 ```
 
-> ### **Ceratonykus**
-> This dino-bird was discovered in Mongolia in 2009.
+> ### **Cetiosauriscus**
+> Not to be confused with the more famous Cetiosaurus.
 
 ---
 
