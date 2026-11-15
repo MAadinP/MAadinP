@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **46 days** left in 2026!
+👉 **45 days** left in 2026!
 
-📅 Year Progress: █████████████████░░░ 87.12%
+📅 Year Progress: █████████████████░░░ 87.40%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Cetiosauriscus**
-> Not to be confused with the more famous Cetiosaurus.
+> ### **Taohelong**
+> The first "polacanthine" ankylosaur ever to be discovered in Asia.
 
 ---
 
