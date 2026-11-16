@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **45 days** left in 2026!
+👉 **44 days** left in 2026!
 
-📅 Year Progress: █████████████████░░░ 87.40%
+📅 Year Progress: █████████████████░░░ 87.67%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Taohelong**
-> The first "polacanthine" ankylosaur ever to be discovered in Asia.
+> ### **Nanuqsaurus**
+> This "polar lizard" was recently discovered in Alaska.
 
 ---
 
