@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **44 days** left in 2026!
+👉 **43 days** left in 2026!
 
-📅 Year Progress: █████████████████░░░ 87.67%
+📅 Year Progress: █████████████████░░░ 87.95%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Nanuqsaurus**
-> This "polar lizard" was recently discovered in Alaska.
+> ### **Tylocephale**
+> The tallest-domed of all the pachycephalosaurs.
 
 ---
 
