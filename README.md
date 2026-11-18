@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **43 days** left in 2026!
+👉 **42 days** left in 2026!
 
-📅 Year Progress: █████████████████░░░ 87.95%
+📅 Year Progress: █████████████████░░░ 88.22%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ Hi there! Here's some fun info for today:
  <__.|_|-|_|
 ```
 
-> ### **Tylocephale**
-> The tallest-domed of all the pachycephalosaurs.
+> ### **Eocarcharia**
+> This "dawn shark" prowled the woodlands of northern Africa.
 
 ---
 
