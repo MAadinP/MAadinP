@@ -3,24 +3,24 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **42 days** left in 2026!
+👉 **41 days** left in 2026!
 
-📅 Year Progress: █████████████████░░░ 88.22%
+📅 Year Progress: █████████████████░░░ 88.49%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
 <div align="center">
 
 ```text
-             __
-            / _)
-     .-^^^-/ /
-  __/       /
- <__.|_|-|_|
+           __
+          / _)
+   .-^^^-/ /
+__/       /
+<__.|_|-|_|
 ```
 
-> ### **Eocarcharia**
-> This "dawn shark" prowled the woodlands of northern Africa.
+> ### **Utahraptor**
+> Probably the biggest raptor that ever lived.
 
 ---
 
