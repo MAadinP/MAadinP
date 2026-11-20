@@ -3,9 +3,9 @@
 Hi there! Here's some fun info for today:
 
 ## 📅 Days Until New Year
-👉 **41 days** left in 2026!
+👉 **40 days** left in 2026!
 
-📅 Year Progress: █████████████████░░░ 88.49%
+📅 Year Progress: █████████████████░░░ 88.77%
 
 ## 🌟 🦕 Dinosaur of the Day 🌟
 
@@ -19,8 +19,8 @@ __/       /
 <__.|_|-|_|
 ```
 
-> ### **Utahraptor**
-> Probably the biggest raptor that ever lived.
+> ### **Talarurus**
+> This ankylosaur was discovered in the Gobi Desert.
 
 ---
 
